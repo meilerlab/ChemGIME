@@ -163,9 +163,7 @@ ChemGIME/
 
 ## Citing ChemGIME
 
-If you use ChemGIME, please cite the accompanying article (see
-[`CITATION.cff`](CITATION.cff)). A versioned code snapshot and all benchmark
-result files are archived on Zenodo.
+
 
 ## License
 
