@@ -52,10 +52,9 @@ conda activate chemgime
 
 | Platform | Status | Notes |
 |----------|--------|-------|
-| **Linux** | ✅ Fully supported (reference platform) | All benchmarks were run here; `environment.yml` and `make all` work as-is. |
-| **macOS** | ✅ Supported | Same `environment.yml`; BLAST is available from bioconda. |
-| **Windows (WSL2)** | ✅ Recommended for Windows | Use `environment.yml` inside WSL2 — identical to the Linux path, including BLAST and `make`. |
-| **Windows (native)** | ⚠️ Core works; two caveats | Use `environment-windows.yml`. See below. |
+| **Linux** | Fully supported (reference platform) | All benchmarks were run here; `environment.yml` and `make all` work as-is. |
+| **macOS** | Supported | Same `environment.yml`; BLAST is available from bioconda. |
+| **Windows (WSL2)** | Recommended for Windows | Use `environment.yml` inside WSL2 — identical to the Linux path, including BLAST and `make`. |
 
 The code itself is cross-platform (it uses `pathlib` throughout, Windows-safe
 temp files, and `shutil.which` guards around external binaries). Two things
