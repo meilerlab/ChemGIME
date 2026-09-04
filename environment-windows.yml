@@ -1,0 +1,39 @@
+name: chemgime
+# ============================================================
+#  Windows environment for ChemGIME.
+#  NCBI BLAST+ (`blast`) is intentionally OMITTED: it is only published
+#  on bioconda for Linux/macOS, so it cannot be installed via conda on
+#  Windows. BLAST is OPTIONAL — the core pipeline (reaction-fingerprint
+#  retrieval, EC prediction, and the Streamlit UI) runs without it.
+#
+#  To enable the optional homology (BLASTp) evidence on native Windows,
+#  install NCBI BLAST+ from the official Windows installer
+#  (https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) and
+#  make sure `blastp` / `makeblastdb` are on your PATH.
+#
+#  For a friction-free experience that matches the Linux setup exactly,
+#  use WSL2 with environment.yml instead.
+# ============================================================
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.13.9
+  # Core chemistry
+  - rdkit=2025.09.1
+  - drfp=0.3.7          # Differential Reaction Fingerprint
+  # Metabolic modelling
+  - cobra=0.30.0         # COBRApy for SBML GEM parsing
+  # Numerical / ML
+  - numpy=1.26.4
+  - pandas=2.3.3
+  - scikit-learn=1.6.1
+  # Sequence alignment (BLAST) — install separately on Windows; see header
+  # Progress / utilities
+  - tqdm=4.67.1
+  - pyyaml>=6.0
+  # Web interface
+  - streamlit=1.44.1
+  - pip:
+      - drfp==0.3.7       # ensure pip wheel if conda build unavailable

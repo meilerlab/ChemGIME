@@ -1,0 +1,1291 @@
+{
+  "summary": {
+    "n_queries": 157,
+    "n_found": 69,
+    "n_missing": 88,
+    "mrr": 0.3272750409544179,
+    "top1": 27.388535031847134,
+    "top5": 39.490445859872615,
+    "top10": 41.40127388535032,
+    "top50": 42.675159235668794,
+    "top100": 43.94904458598726,
+    "elapsed_s": 4.8,
+    "gem": "iJN746.xml",
+    "fp_type": "qrfp",
+    "cofactors_filtered": false,
+    "n_train": 626,
+    "n_test": 157,
+    "strict": {
+      "n_queries": 157,
+      "n_found": 63,
+      "n_missing": 94,
+      "mrr": 0.29242012234153747,
+      "top1": 24.203821656050955,
+      "top5": 35.03184713375796,
+      "top10": 37.57961783439491,
+      "top50": 38.853503184713375,
+      "top100": 40.12738853503185
+    },
+    "median_shared_gene_reactions": 0.0,
+    "mean_shared_gene_reactions": 1.87,
+    "median_exact_gpr_reactions": 0.0
+  },
+  "details": [
+    {
+      "id": "UDCPDP",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CFAS160E",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "L_LACD2",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "UPPN",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "TRSARr",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "VNLNpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "RNDR4",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 3,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "SHCHF",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGTRS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAS120",
+      "rank": 1,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 12,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "PC20M",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "E4PD",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD11pp",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD6",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 8,
+      "n_exact_gpr_rxns": 8,
+      "reason": "ok"
+    },
+    {
+      "id": "PIuabcpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "HISTRS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "IPPMIb",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "AKGDa",
+      "rank": 58,
+      "strict_rank": 58,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PGSA161",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "SO4t4_2",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "XAND",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PTAr",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CBPS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGDC",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "AGPAT120",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "AMPN",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "FCLT",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "NFORGLUAH",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CYO1b",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "TYRTRS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "SGDS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "HMSH2",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "PRAMPC",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "LYSabcpp",
+      "rank": 1,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PGPP161pp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 8,
+      "n_exact_gpr_rxns": 8,
+      "reason": "ok"
+    },
+    {
+      "id": "FORGLUIH",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PE180abcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "THRabcpp",
+      "rank": 1,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 3,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DHQS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "TOLtex",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "EDA",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CAFFCOA",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD3pp",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "PPGPPDP",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "KAS15",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "NDPK5",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 6,
+      "n_exact_gpr_rxns": 6,
+      "reason": "ok"
+    },
+    {
+      "id": "R15BPK",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DHDPRy",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUCYS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PGP161abcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "DHAD2",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "3HAD181",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 9,
+      "n_exact_gpr_rxns": 9,
+      "reason": "ok"
+    },
+    {
+      "id": "EDD",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "HOPNTAL",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUDC",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "THRA2",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DPHAPC140",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "AGPR",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUSy",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DHNPA",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PGK",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PPBNGS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ETHSO3abcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 3,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "IPMD",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "MTOLDOX",
+      "rank": 1,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CHLabcpp",
+      "rank": 2,
+      "strict_rank": 9,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "TRDR",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PACCOAL",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CYTK2",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "UAPGR",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PSD160",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "3_4DHBZt2",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PPND",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "FRUpts",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "TYRt2rpp",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ACOAD5f",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 5,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "HACD4i",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 12,
+      "n_exact_gpr_rxns": 6,
+      "reason": "ok"
+    },
+    {
+      "id": "IMPC",
+      "rank": 13,
+      "strict_rank": 13,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "CYSabcpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ILETA",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "PYDXPP",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "FACOAL140t2pp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 5,
+      "n_exact_gpr_rxns": 5,
+      "reason": "ok"
+    },
+    {
+      "id": "SHSL4r",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "SHSL1",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "ASPabcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 9,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "TAURabcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 3,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "4HBHYOX",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GADktpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ACODA",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "RBFSb",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAS80",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 12,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "AKGt2rpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DASYN181",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "PE160abcpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "IG3PS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "FOLD3",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PTOLDOX",
+      "rank": 3,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GART",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PC17M",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "3MBZDH",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "IPDPS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "BETALDHx",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD2pp",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 7,
+      "n_exact_gpr_rxns": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD4",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 8,
+      "n_exact_gpr_rxns": 8,
+      "reason": "ok"
+    },
+    {
+      "id": "ADSS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ECOAH7",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 12,
+      "n_exact_gpr_rxns": 6,
+      "reason": "ok"
+    },
+    {
+      "id": "PROtex",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "GUAPRT",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ICITt_kt",
+      "rank": 7,
+      "strict_rank": 7,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "AP4AH",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "IPPMIa",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ANPRT",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "TKT2",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUtex",
+      "rank": 59,
+      "strict_rank": 59,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ACOAD6f",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 5,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "CDPMEK",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "SOTA",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "GTPCII",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "THRA",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "SER_AL",
+      "rank": 5,
+      "strict_rank": 5,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "CFAS180E",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 2,
+      "n_exact_gpr_rxns": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "ACt2rpp",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "G3PAT120",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "PRFGS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "MCITD",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "LPCOXc",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "THRTRS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "UPP3S",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PPS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "VANKpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DCTPD2",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PDH",
+      "rank": 4,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 5,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ADCYRS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PROt2rpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "NDPK8",
+      "rank": 2,
+      "strict_rank": 2,
+      "n_shared_gene_rxns": 6,
+      "n_exact_gpr_rxns": 6,
+      "reason": "ok"
+    },
+    {
+      "id": "DHORTS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DHFS",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "4HTHRS",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ADOCBIK",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ADPT",
+      "rank": 9,
+      "strict_rank": 9,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "MDH",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PGPP181",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 8,
+      "n_exact_gpr_rxns": 8,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAR100",
+      "rank": 11,
+      "strict_rank": 11,
+      "n_shared_gene_rxns": 16,
+      "n_exact_gpr_rxns": 16,
+      "reason": "ok"
+    },
+    {
+      "id": "FDMO5",
+      "rank": 1,
+      "strict_rank": 1,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "SULabcpp",
+      "rank": 7,
+      "strict_rank": 7,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "UAGCVT",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "APRAUR",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SUCD1",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 1,
+      "n_exact_gpr_rxns": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ACACT1r",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "CYO1_KT",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "DHQTi",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "FUMt2_2pp",
+      "rank": 3,
+      "strict_rank": 3,
+      "n_shared_gene_rxns": 4,
+      "n_exact_gpr_rxns": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "T2DECAI",
+      "rank": 1,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 9,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "2DHGLCNkt_tpp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGORNt7pp",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    },
+    {
+      "id": "PPA",
+      "rank": null,
+      "strict_rank": null,
+      "n_shared_gene_rxns": 0,
+      "n_exact_gpr_rxns": 0,
+      "reason": "ok"
+    }
+  ]
+}

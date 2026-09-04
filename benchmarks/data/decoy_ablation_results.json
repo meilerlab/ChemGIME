@@ -1,0 +1,75 @@
+{
+  "benchmark": "Functional-group ablation specificity",
+  "config": {
+    "gem": "/media/data/dev/microbiomeML/ChemGIME/iML1515.xml",
+    "fp_type": "drfp"
+  },
+  "n_total": 5,
+  "n_ok": 4,
+  "mean_distance_gap": 0.0,
+  "n_decoy_farther": 0,
+  "per_drug": [
+    {
+      "drug": "nitrofurantoin",
+      "enzyme": "NfsB nitroreductase",
+      "ec": "1.6.99.-",
+      "true_substrate": "O=C1CCC(=NN1)c1ccc([N+](=O)[O-])o1",
+      "ablated_substrate": "Cc1ccc(C2=NNC(=O)CC2)o1",
+      "note": "aromatic nitro -> methyl",
+      "ok": true,
+      "status": "ok",
+      "true_best_distance": 0.0,
+      "decoy_best_distance": 0.0,
+      "distance_gap": 0.0
+    },
+    {
+      "drug": "metronidazole",
+      "enzyme": "NfsB nitroreductase",
+      "ec": "1.6.99.-",
+      "true_substrate": "Cc1ncc([N+](=O)[O-])n1CCO",
+      "ablated_substrate": "Cc1cnc(C)n1CCO",
+      "note": "nitroimidazole nitro -> methyl",
+      "ok": true,
+      "status": "ok",
+      "true_best_distance": 0.0,
+      "decoy_best_distance": 0.0,
+      "distance_gap": 0.0
+    },
+    {
+      "drug": "balsalazide",
+      "enzyme": "azoreductase",
+      "ec": "1.7.1.-",
+      "true_substrate": "OC(=O)c1cc(/N=N/c2ccc(C(=O)NCCC(=O)O)cc2)ccc1O",
+      "ablated_substrate": "CCc1ccc(O)c(C(=O)O)c1.O=C(O)CCNC(=O)c1ccccc1",
+      "note": "azo bond -> ethylene (no cleavable N=N)",
+      "ok": true,
+      "status": "ok",
+      "true_best_distance": 0.0,
+      "decoy_best_distance": 0.0,
+      "distance_gap": 0.0
+    },
+    {
+      "drug": "sulfasalazine",
+      "enzyme": "azoreductase",
+      "ec": "1.7.1.-",
+      "true_substrate": "OC(=O)c1cc(/N=N/c2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O",
+      "ablated_substrate": "CCc1ccc(O)c(C(=O)O)c1.O=S(=O)(Nc1ccccn1)c1ccccc1",
+      "note": "azo bond -> ethylene",
+      "ok": true,
+      "status": "ok",
+      "true_best_distance": 0.0,
+      "decoy_best_distance": 0.0,
+      "distance_gap": 0.0
+    },
+    {
+      "drug": "5-aminosalicylate",
+      "enzyme": "arylamine N-acetyltransferase",
+      "ec": "2.3.1.5",
+      "true_substrate": "Nc1ccc(O)c(C(=O)O)c1",
+      "ablated_substrate": null,
+      "note": "aromatic primary amine -> methyl (no N-acetylation site)",
+      "ok": false,
+      "status": "ablation_failed"
+    }
+  ]
+}

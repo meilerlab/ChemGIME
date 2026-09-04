@@ -1,0 +1,28 @@
+name: chemgime
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.13.9
+  # Core chemistry
+  - rdkit=2025.09.1
+  - drfp=0.3.7          # Differential Reaction Fingerprint
+  # Metabolic modelling
+  - cobra=0.30.0         # COBRApy for SBML GEM parsing
+  # Numerical / ML
+  - numpy=1.26.4
+  - pandas=2.3.3
+  - scikit-learn=1.6.1
+  # Sequence alignment
+  # NOTE: `blast` is a bioconda package with Linux/macOS builds only.
+  # It is OPTIONAL (core retrieval + UI run without it). On Windows use
+  # environment-windows.yml, which omits this line.
+  - blast=2.12.0         # NCBI BLAST+ (blastp)  [Linux/macOS only]
+  # Progress / utilities
+  - tqdm=4.67.1
+  - pyyaml>=6.0
+  # Web interface
+  - streamlit=1.44.1
+  - pip:
+      - drfp==0.3.7       # ensure pip wheel if conda build unavailable

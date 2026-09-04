@@ -1,0 +1,10 @@
+{
+  "model_load_time_s": 4.079508306458592,
+  "total_embed_time_s": 101.28812030237168,
+  "per_protein_ms": 66.90100416272898,
+  "n_proteins": 1514,
+  "model": "esm2_t33_650M_UR50D",
+  "device": "RTX_4060_Ti_8GB",
+  "precision": "fp16",
+  "batch_size": 4
+}

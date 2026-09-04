@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use ChemGIME, please cite both the software and the accompanying article."
+title: "ChemGIME: organism-specific enzyme identification through reaction fingerprinting of genome-scale metabolic models"
+type: software
+authors:
+  - given-names: Onur
+    family-names: Elaldi
+    orcid: "https://orcid.org/0009-0000-1572-4421"
+    affiliation: "Institute for Drug Discovery, Leipzig University, Faculty of Medicine, Leipzig, Germany"
+  - given-names: Maria
+    family-names: Kulosa
+    affiliation: "Institute for Drug Discovery, Leipzig University, Faculty of Medicine, Leipzig, Germany"
+  - given-names: Florian
+    family-names: Semmler
+    affiliation: "Institute for Drug Discovery, Leipzig University, Faculty of Medicine, Leipzig, Germany"
+  - given-names: Leonard
+    family-names: Kaysser
+    affiliation: "Institute for Drug Discovery, Leipzig University, Faculty of Medicine, Leipzig, Germany"
+  - given-names: Jens
+    family-names: Meiler
+    affiliation: "Institute for Drug Discovery, Leipzig University, Faculty of Medicine, Leipzig, Germany"
+license: MIT
+repository-code: "https://github.com/meilerlab/ChemGIME"
+keywords:
+  - organism-specific enzyme retrieval
+  - reaction fingerprints
+  - genome-scale metabolic model
+  - constraint-based modelling
+  - similarity search
+preferred-citation:
+  type: article
+  title: "ChemGIME: organism-specific enzyme identification through reaction fingerprinting of genome-scale metabolic models"
+  authors:
+    - given-names: Onur
+      family-names: Elaldi
+      orcid: "https://orcid.org/0009-0000-1572-4421"
+    - given-names: Maria
+      family-names: Kulosa
+    - given-names: Florian
+      family-names: Semmler
+    - given-names: Leonard
+      family-names: Kaysser
+    - given-names: Jens
+      family-names: Meiler
+  journal: "Bioinformatics"
+  year: 2026
+  notes: "DOI assigned during production."

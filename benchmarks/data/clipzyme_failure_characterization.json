@@ -1,0 +1,86 @@
+{
+  "description": "CLIPZyme encoding-failure characterisation; ChemGIME ranks sourced from mcsa_novelty_iML1515_qrfp_kept.json",
+  "n_encoded": 72,
+  "n_failed": 58,
+  "ec_contingency": {
+    "oxidoreductases": {
+      "ec_l1": "1",
+      "encoded": 7,
+      "failed": 18,
+      "total": 25,
+      "failure_rate_pct": 72.0
+    },
+    "transferases": {
+      "ec_l1": "2",
+      "encoded": 25,
+      "failed": 16,
+      "total": 41,
+      "failure_rate_pct": 39.0
+    },
+    "hydrolases": {
+      "ec_l1": "3",
+      "encoded": 10,
+      "failed": 4,
+      "total": 14,
+      "failure_rate_pct": 28.6
+    },
+    "lyases": {
+      "ec_l1": "4",
+      "encoded": 19,
+      "failed": 10,
+      "total": 29,
+      "failure_rate_pct": 34.5
+    },
+    "isomerases": {
+      "ec_l1": "5",
+      "encoded": 11,
+      "failed": 0,
+      "total": 11,
+      "failure_rate_pct": 0.0
+    },
+    "ligases": {
+      "ec_l1": "6",
+      "encoded": 0,
+      "failed": 9,
+      "total": 9,
+      "failure_rate_pct": 100.0
+    },
+    "translocases": {
+      "ec_l1": "7",
+      "encoded": 0,
+      "failed": 1,
+      "total": 1,
+      "failure_rate_pct": 100.0
+    }
+  },
+  "ec_independence_test": {
+    "test": "Pearson chi-square, Monte-Carlo label permutation",
+    "chi2": 32.044,
+    "p_value": 2e-05,
+    "cramers_v": 0.496,
+    "n_permutations": 100000,
+    "seed": 42,
+    "note": "Monte-Carlo because EC 5/6/7 have zero cells"
+  },
+  "chemgime_on_failed": {
+    "n": 58,
+    "mrr": 0.8277,
+    "found_pct": 98.3,
+    "top1_pct": 81.0,
+    "top5_pct": 82.8,
+    "top10_pct": 86.2
+  },
+  "chemgime_on_encoded": {
+    "n": 72,
+    "mrr": 0.8221,
+    "found_pct": 100.0,
+    "top1_pct": 75.0,
+    "top5_pct": 91.7,
+    "top10_pct": 93.1
+  },
+  "chemgime_group_difference_test": {
+    "test": "Mann-Whitney U (two-sided) on per-query reciprocal ranks",
+    "u_statistic": 2159.5,
+    "p_value": 0.6481
+  }
+}

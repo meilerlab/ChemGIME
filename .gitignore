@@ -1,0 +1,72 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# ===========================
+# Virtual Environments
+# ===========================
+.venv/
+venv/
+env/
+ENV/
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Security / Secrets
+# ===========================
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.yaml
+
+# ===========================
+# Large source tables (rebuild locally; see scripts/create_mapping.py)
+#   Download chem_prop.tsv / chem_xref.tsv from MetaNetX to regenerate
+#   data/database/bigg_to_smiles.tsv.
+# ===========================
+data/database/chem_prop.tsv
+data/database/chem_xref.tsv
+
+# ===========================
+# Generated runtime / report output
+# ===========================
+predictions/
+streamlit_reports/
+
+# ===========================
+# Jupyter / IPython
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# Logs
+# ===========================
+*.log

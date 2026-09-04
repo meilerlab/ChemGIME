@@ -1,0 +1,7699 @@
+[
+ {
+  "id": "23CUMPtex",
+  "name": "23cUMP transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "2',3'-Cyclic UMP"
+  ],
+  "products": [
+   "2',3'-Cyclic UMP"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "2AGPE180tipp",
+  "name": "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0) transporter via facilitated diffusion (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)"
+  ],
+  "drfp_filt": 97,
+  "drfp_kept": 97,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "2AGPE181tipp",
+  "name": "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1) transporter via facilitated diffusion (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)"
+  ],
+  "drfp_filt": 97,
+  "drfp_kept": 97,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "2AGPG140tipp",
+  "name": "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0) transporter via facilitated diffusion (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)"
+  ],
+  "drfp_filt": 97,
+  "drfp_kept": 97,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "2AGPG181tipp",
+  "name": "2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1) transporter via facilitated diffusion (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)"
+  ],
+  "drfp_filt": 97,
+  "drfp_kept": 97,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "2DGULRx",
+  "name": "2-dehydro-L-gulonate reductase (NADH)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Dehydro-L-gulonate",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "L-Idonate",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "34dhpactex",
+  "name": "Dihydroxyphenylacetaldehyde transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "3,4-Dihydroxyphenylacetaldehyde"
+  ],
+  "products": [
+   "3,4-Dihydroxyphenylacetaldehyde"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "3GMPtex",
+  "name": "3GMP transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Guanosine 3  phosphate C10H12N5O8P"
+  ],
+  "products": [
+   "Guanosine 3  phosphate C10H12N5O8P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "3HAD140",
+  "name": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)",
+  "ec": "2.3.1.85; 2.3.1.86; 4.2.1.61; 4.2.1.59; 2.3.1.-",
+  "reactants": [
+   "(R)-3-Hydroxytetradecanoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "H2O H2O",
+   "Trans-Tetradec-2-enoyl-[acyl-carrier protein]"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3HAD180",
+  "name": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)",
+  "ec": "4.2.1.61; 4.2.1.-; 2.3.1.-",
+  "reactants": [
+   "(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "H2O H2O",
+   "Trans-octadec-2-enoyl-[acyl-carrier protein]"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3HAD60",
+  "name": "3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)",
+  "ec": "2.3.1.85; 4.2.1.58; 2.3.1.86; 4.2.1.59; 2.3.1.-",
+  "reactants": [
+   "(R)-3-Hydroxyhexanoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "H2O H2O",
+   "Trans-Hex-2-enoyl-[acyl-carrier protein]"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3NTD9pp",
+  "name": "3'-nucleotidase (GMP) (periplasm)",
+  "ec": "3.1.3.6",
+  "reactants": [
+   "Guanosine 3  phosphate C10H12N5O8P",
+   "H2O H2O"
+  ],
+  "products": [
+   "Guanosine",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAR141",
+  "name": "3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)",
+  "ec": "1.1.1.100",
+  "reactants": [
+   "3-oxo-cis-myristol-7-eoyl-[acyl-carrier protein]",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "(R)-3-hydroxy-cis-myristol-7-eoyl-[acyl-carrier protein]",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 3,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAR180",
+  "name": "3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)",
+  "ec": "1.1.1.100",
+  "reactants": [
+   "3-Oxooctadecanoyl-[acyl-carrier protein]",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "(R)-3-Hydroxyoctadecanoyl-[acyl-carrier protein]",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAS120",
+  "name": "3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "Decanoyl-ACP (n-C10:0ACP)",
+   "H+",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "3-Oxododecanoyl-[acyl-carrier protein]",
+   "Acyl carrier protein",
+   "CO2 CO2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAS140",
+  "name": "3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "Dodecanoyl-ACP (n-C12:0ACP)",
+   "H+",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "3-Oxotetradecanoyl-[acyl-carrier protein]",
+   "Acyl carrier protein",
+   "CO2 CO2"
+  ],
+  "drfp_filt": 4,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAS181",
+  "name": "3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)",
+  "ec": "2.3.1.179",
+  "reactants": [
+   "H+",
+   "Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "3-oxo-cis-vacc-11-enoyl-[acyl-carrier protein]",
+   "Acyl carrier protein",
+   "CO2 CO2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAS60",
+  "name": "3-oxoacyl-[acyl-carrier-protein] synthase (n-C6:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "Butyryl-ACP (n-C4:0ACP)",
+   "H+",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "3-Oxohexanoyl-[acyl-carrier protein]",
+   "Acyl carrier protein",
+   "CO2 CO2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "3OAS80",
+  "name": "3-oxoacyl-[acyl-carrier-protein] synthase (n-C8:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "H+",
+   "Hexanoyl-ACP (n-C6:0ACP)",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "3-Oxooctanoyl-[acyl-carrier protein]",
+   "Acyl carrier protein",
+   "CO2 CO2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "4HOXPACDtex",
+  "name": "4-hydroxyphenylacetaldehyde transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "4-Hydroxyphenylacetaldehyde"
+  ],
+  "products": [
+   "4-Hydroxyphenylacetaldehyde"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "5DKGR",
+  "name": "5-keto-D-gluconate 5-reductase",
+  "ec": "N/A",
+  "reactants": [
+   "D-Gluconate",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "5-Dehydro-D-gluconate",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "5MTRtex",
+  "name": "5-Methylthio-D-ribose transport via proton diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "5-Methylthio-D-ribose"
+  ],
+  "products": [
+   "5-Methylthio-D-ribose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "AACPS6",
+  "name": "Acyl-[acyl-carrier-protein] synthetase  (n-C18:0)",
+  "ec": "6.2.1.20",
+  "reactants": [
+   "Acyl carrier protein",
+   "ATP C10H12N5O13P3",
+   "Octadecanoate (n-C18:0)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Octadecanoyl-ACP (n-C18:0ACP)",
+   "Diphosphate"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "AACPS9",
+  "name": "Acyl-[acyl-carrier-protein] synthetase  (n-C8:0)",
+  "ec": "6.2.1.l",
+  "reactants": [
+   "Acyl carrier protein",
+   "ATP C10H12N5O13P3",
+   "Octanoate (n-C8:0)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Octanoyl-ACP (n-C8:0ACP)",
+   "Diphosphate"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ACACT2r",
+  "name": "Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r)",
+  "ec": "2.3.1.9; 2.3.1.16",
+  "reactants": [
+   "Acetyl-CoA",
+   "Butanoyl-CoA"
+  ],
+  "products": [
+   "3-Oxohexanoyl-CoA",
+   "Coenzyme A"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ACACT7r",
+  "name": "Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r)",
+  "ec": "2.3.1.9; 2.3.1.16; 2.3.1.155",
+  "reactants": [
+   "Acetyl-CoA",
+   "Tetradecanoyl-CoA (n-C14:0CoA)"
+  ],
+  "products": [
+   "3-Oxohexadecanoyl-CoA",
+   "Coenzyme A"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ACGAtex",
+  "name": "N-Acetyl-D-glucosamine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-glucosamine"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 6,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "ACMANAtex",
+  "name": "N-acetyl-D-mannosamine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-mannosamine"
+  ],
+  "products": [
+   "N-Acetyl-D-mannosamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "ACOLIPAabctex",
+  "name": "Arabinose modified core oligosaccharide lipid A transport via ABC system (periplasm to extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A",
+   "ATP C10H12N5O13P3",
+   "H2O H2O"
+  ],
+  "products": [
+   "4-Amino-4-deoxy-L-arabinose modified core oligosaccharide lipid A",
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 6,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ADK1",
+  "name": "Adenylate kinase",
+  "ec": "2.7.4.3",
+  "reactants": [
+   "AMP C10H12N5O7P",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 2,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ADK4",
+  "name": "Adentylate kinase (ITP)",
+  "ec": "N/A",
+  "reactants": [
+   "AMP C10H12N5O7P",
+   "ITP C10H11N4O14P3"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "IDP C10H11N4O11P2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 2,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "ALATA_L2",
+  "name": "Alanine transaminase",
+  "ec": "N/A",
+  "reactants": [
+   "L-Alanine",
+   "Pyridoxal 5'-phosphate"
+  ],
+  "products": [
+   "Pyridoxamine 5'-phosphate",
+   "Pyruvate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "APG3PAT120",
+  "name": "Acyl-phosphate:glycerol-3-phosphate acyltransferase (C12:0)",
+  "ec": "N/A",
+  "reactants": [
+   "Dodecanoly-phosphate (n-C12:0)",
+   "Glycerol 3-phosphate"
+  ],
+  "products": [
+   "1-dodecanoyl-sn-glycerol 3-phosphate",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "APH161",
+  "name": "Acylphosphatase (C16:1)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Hexadecanoyl-phosphate (n-C16:1)"
+  ],
+  "products": [
+   "H+",
+   "Hexadecenoate (n-C16:1)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "APH180",
+  "name": "Acylphosphatase (C18:0)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Octadecanoyl-phosphate (n-C18:0)"
+  ],
+  "products": [
+   "H+",
+   "Octadecanoate (n-C18:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ASNS2",
+  "name": "Asparagine synthetase",
+  "ec": "6.3.1.1; 6.3.5.4",
+  "reactants": [
+   "L-Aspartate",
+   "ATP C10H12N5O13P3",
+   "Ammonium"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "L-Asparagine",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "BALAtex",
+  "name": "Beta-alanine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Beta-Alanine"
+  ],
+  "products": [
+   "Beta-Alanine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "BMOGDS1",
+  "name": "Bis-molybdopterin guanine dinucleotide synthase (single GDP)",
+  "ec": "N/A",
+  "reactants": [
+   "Bis-molybdenum cofactor",
+   "GTP C10H12N5O14P3",
+   "H+"
+  ],
+  "products": [
+   "Bis-molybdopterin mono-guanine dinucleotide",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "BSORy",
+  "name": "Biotin sulfoxide reductase",
+  "ec": "1.-.-.-",
+  "reactants": [
+   "D-biotin d-sulfoxide",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "Biotin",
+   "H2O H2O",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "BUTSO3abcpp",
+  "name": "Butanesulfonate transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Butanesulfonate",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Butanesulfonate",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 5,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "BWCOS",
+  "name": "Tungsten bispterin cofactor synthase",
+  "ec": "N/A",
+  "reactants": [
+   "Adenylated molybdopterin",
+   "Tungsten binding cofactor"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Tungsten bispterin cofactor",
+   "Copper"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "CFAS160G",
+  "name": "Cyclopropane fatty acid synthase (Phosphatidylglycerol, n-C16:0)",
+  "ec": "2.1.1.79",
+  "reactants": [
+   "S-Adenosyl-L-methionine",
+   "Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)"
+  ],
+  "products": [
+   "S-Adenosyl-L-homocysteine",
+   "Cyclopropane phosphatidylglycerol (dihexadec-9,10-cyclo-anoyl, n-C16:0 cyclo)",
+   "H+"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "CFAS180E",
+  "name": "Cyclopropane fatty acid synthase (Phosphatidylethanolamine, n-C18:0)",
+  "ec": "2.1.1.79",
+  "reactants": [
+   "S-Adenosyl-L-methionine",
+   "Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)"
+  ],
+  "products": [
+   "S-Adenosyl-L-homocysteine",
+   "Cyclopropane phosphatidylethanolamine (dioctadec-11,12-cyclo-anoyl, n-C18:0 cyclo)",
+   "H+"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "CRNtex",
+  "name": "L-carnitine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Carnitine"
+  ],
+  "products": [
+   "L-Carnitine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 6,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "CU2tex",
+  "name": "Copper (Cu+2) transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Copper"
+  ],
+  "products": [
+   "Copper"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "CYStex",
+  "name": "L-cysteine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Cysteine"
+  ],
+  "products": [
+   "L-Cysteine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 8,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "CYTDH",
+  "name": "Cytidine hydrolase",
+  "ec": "3.2.2.3; 3.2.2.8",
+  "reactants": [
+   "Cytidine",
+   "H2O H2O"
+  ],
+  "products": [
+   "Cytosine",
+   "D-Ribose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "CYTDK1",
+  "name": "ATP:cytidine 5'-phosphotransferase",
+  "ec": "2.7.1.48; 2.7.1.213",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Cytidine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "CMP C9H12N3O8P",
+   "H+"
+  ],
+  "drfp_filt": 21,
+  "drfp_kept": 1,
+  "qrfp_filt": 15,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "DASYN140",
+  "name": "CDP-diacylglycerol synthetase (n-C14:0)",
+  "ec": "2.7.7.41",
+  "reactants": [
+   "CTP C9H12N3O14P3",
+   "H+",
+   "1,2-ditetradecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "CDP-1,2-ditetradecanoylglycerol",
+   "Diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "DASYN141",
+  "name": "CDP-diacylglycerol synthetase (n-C14:1)",
+  "ec": "2.7.7.41",
+  "reactants": [
+   "CTP C9H12N3O14P3",
+   "H+",
+   "1,2-ditetradec-7-enoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "CDP-1,2-ditetradec-7-enoylglycerol",
+   "Diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "DGSNtex",
+  "name": "Deoxyguanosine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Deoxyguanosine"
+  ],
+  "products": [
+   "Deoxyguanosine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "DHAPT",
+  "name": "Dihydroxyacetone phosphotransferase",
+  "ec": "2.7.1.121",
+  "reactants": [
+   "Dihydroxyacetone",
+   "Phosphoenolpyruvate"
+  ],
+  "products": [
+   "Dihydroxyacetone phosphate",
+   "Pyruvate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 7,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "DHORD2",
+  "name": "Dihydoorotic acid dehydrogenase (quinone8)",
+  "ec": "N/A",
+  "reactants": [
+   "(S)-Dihydroorotate",
+   "Ubiquinone-8"
+  ],
+  "products": [
+   "Orotate C5H3N2O4",
+   "Ubiquinol-8"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 13,
+  "qrfp_kept": 10
+ },
+ {
+  "id": "DIMPtex",
+  "name": "DIMP transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "DIMP C10H12N4O7P"
+  ],
+  "products": [
+   "DIMP C10H12N4O7P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "DKGLCNR2y",
+  "name": "2,5-diketo-D-gluconate reductase (NADPH)",
+  "ec": "1.1.1; 1.1.1.215",
+  "reactants": [
+   "2,5-diketo-D-gluconate",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "5-Dehydro-D-gluconate",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "DTMPtex",
+  "name": "DTMP transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "DTMP C10H13N2O8P"
+  ],
+  "products": [
+   "DTMP C10H13N2O8P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "DUMPtex",
+  "name": "DUMP transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "DUMP C9H11N2O8P"
+  ],
+  "products": [
+   "DUMP C9H11N2O8P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 8,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "EAR100y",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Trans-Dec-2-enoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Decanoyl-ACP (n-C10:0ACP)",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "EAR140y",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)",
+  "ec": "2.3.1.86",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Trans-Tetradec-2-enoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Myristoyl-ACP (n-C14:0ACP)",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "EAR141x",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)",
+  "ec": "1.3.1.9",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced",
+   "Trans-3-cis-7-myristoleoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Nicotinamide adenine dinucleotide",
+   "Cis-tetradec-7-enoyl-[acyl-carrier protein] (n-C14:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "EAR161y",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:1)",
+  "ec": "1.3.1.10",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Trans-3-cis-9-palmitoleoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Cis-hexadec-9-enoyl-[acyl-carrier protein] (n-C16:1)",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "EAR181y",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:1)",
+  "ec": "1.3.1.10",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Trans-3-cis-11-vacceoyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Nicotinamide adenine dinucleotide phosphate",
+   "Cis-octadec-11-enoyl-[acyl-carrier protein] (n-C18:1)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "EAR40x",
+  "name": "Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C4:0)",
+  "ec": "2.3.1.-",
+  "reactants": [
+   "But-2-enoyl-[acyl-carrier protein]",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "Butyryl-ACP (n-C4:0ACP)",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ECA4COLIPAabctex",
+  "name": "Enterobacterial common antigen (x4) core oligosaccharide lipid A transport via ABC system (periplasm to extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "(enterobacterial common antigen)x4 core oligosaccharide lipid A",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "(enterobacterial common antigen)x4 core oligosaccharide lipid A",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 6,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ECAP1pp",
+  "name": "Enterobacterial common antigen polymerase (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose"
+  ],
+  "products": [
+   "(enterobacterial common antigen)x2 undecaprenyl-diphosphate",
+   "H+",
+   "Undecaprenyl diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ECOAH3",
+  "name": "3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA)",
+  "ec": "4.2.1.17; 4.2.1.74",
+  "reactants": [
+   "(S)-3-Hydroxyoctanoyl-CoA"
+  ],
+  "products": [
+   "H2O H2O",
+   "Trans-Oct-2-enoyl-CoA"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "ETHAtex",
+  "name": "Ethanolamine transport via diffusion (extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "Ethanolamine"
+  ],
+  "products": [
+   "Ethanolamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "ETOHtex",
+  "name": "Ethanol transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Ethanol"
+  ],
+  "products": [
+   "Ethanol"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "FA160ACPHi",
+  "name": "Fatty-acyl-ACP hydrolase",
+  "ec": "3.1.2.14",
+  "reactants": [
+   "H2O H2O",
+   "Palmitoyl-ACP (n-C16:0ACP)"
+  ],
+  "products": [
+   "Acyl carrier protein",
+   "H+",
+   "Hexadecanoate (n-C16:0)"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAE140",
+  "name": "Fatty-acid-CoA thioesterase (tetradecanoate)",
+  "ec": "3.1.2.2",
+  "reactants": [
+   "H2O H2O",
+   "Tetradecanoyl-CoA (n-C14:0CoA)"
+  ],
+  "products": [
+   "Coenzyme A",
+   "H+",
+   "Tetradecanoate (n-C14:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAE180",
+  "name": "Fatty-acid-CoA thioesterase (octadecanoate)",
+  "ec": "3.1.2.2",
+  "reactants": [
+   "H2O H2O",
+   "Stearoyl-CoA (n-C18:0CoA)"
+  ],
+  "products": [
+   "Coenzyme A",
+   "H+",
+   "Octadecanoate (n-C18:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAE80",
+  "name": "Fatty-acid-CoA thioesterase (octanoate)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Octanoyl-CoA (n-C8:0CoA)"
+  ],
+  "products": [
+   "Coenzyme A",
+   "H+",
+   "Octanoate (n-C8:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAL100t2pp",
+  "name": "Fatty-acid-CoA ligase (decanoate transport via vectoral Co-A coupling)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "Decanoate (n-C10:0)",
+   "H+"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Decanoyl-CoA (n-C10:0CoA)",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAL120t2pp",
+  "name": "Fatty-acid-CoA ligase (dodecanoate transport via vectoral Co-A coupling)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "Dodecanoate (n-C12:0)",
+   "H+"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Dodecanoyl-CoA (n-C12:0CoA)",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAL140t2pp",
+  "name": "Fatty-acid-CoA ligase (tetradecanoate transport via vectoral Co-A coupling)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "H+",
+   "Tetradecanoate (n-C14:0)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "H+",
+   "Diphosphate",
+   "Tetradecanoyl-CoA (n-C14:0CoA)"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAL160t2pp",
+  "name": "Fatty-acid-CoA ligase (hexadecanoate transport via vectoral Co-A coupling)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "H+",
+   "Hexadecanoate (n-C16:0)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "H+",
+   "Palmitoyl-CoA (n-C16:0CoA)",
+   "Diphosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FACOAL181t2pp",
+  "name": "Fatty-acid-CoA ligase (octadecenoate transport via vectoral Co-A coupling)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "H+",
+   "Octadecenoate (n-C18:1)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "H+",
+   "Octadecenoyl-CoA (n-C18:1CoA)",
+   "Diphosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FE3tex",
+  "name": "Iron (III) transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Iron (Fe3+)"
+  ],
+  "products": [
+   "Iron (Fe3+)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 21,
+  "qrfp_kept": 23
+ },
+ {
+  "id": "FEENTERR4",
+  "name": "Fe-enterobactin reduction via nadph",
+  "ec": "N/A",
+  "reactants": [
+   "Fe-enterobactin",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "Enterochelin",
+   "Fe2+ mitochondria",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": 14,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FEOXAMR3",
+  "name": "Ferroxamine reductase",
+  "ec": "N/A",
+  "reactants": [
+   "Generic ferrioxamine-Fe-III",
+   "Reduced riboflavin"
+  ],
+  "products": [
+   "Fe2+ mitochondria",
+   "Ferroxamine minus Fe(3)",
+   "H+",
+   "Riboflavin C17H20N4O6"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FESD2s",
+  "name": "Iron-sulfur cluster damage (nitrous oxide, spontaneous)",
+  "ec": "N/A",
+  "reactants": [
+   "[4Fe-4S] iron-sulfur cluster",
+   "H+",
+   "Nitric oxide"
+  ],
+  "products": [
+   "[3Fe-4S] damaged iron-sulfur cluster",
+   "Iron (Fe3+)",
+   "H2O H2O",
+   "Nitrous oxide"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FLVR",
+  "name": "Flavin reductase",
+  "ec": "1.5.1.41; 1.5.1.30",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Riboflavin C17H20N4O6"
+  ],
+  "products": [
+   "Nicotinamide adenine dinucleotide phosphate",
+   "Reduced riboflavin"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "FRUURtex",
+  "name": "D-fructuronate transport via diffusion (extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Fructuronate"
+  ],
+  "products": [
+   "D-Fructuronate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "FUMtex",
+  "name": "Fumarate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Fumarate"
+  ],
+  "products": [
+   "Fumarate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "G3PAT180",
+  "name": "Glycerol-3-phosphate acyltransferase (C18:0)",
+  "ec": "2.3.1.15",
+  "reactants": [
+   "Glycerol 3-phosphate",
+   "Octadecanoyl-ACP (n-C18:0ACP)"
+  ],
+  "products": [
+   "1-octadecanoyl-sn-glycerol 3-phosphate",
+   "Acyl carrier protein"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "G3PCtex",
+  "name": "Glycero-3-phosphocholine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sn-Glycero-3-phosphocholine"
+  ],
+  "products": [
+   "Sn-Glycero-3-phosphocholine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "G3PItex",
+  "name": "Glycero-3-phospho-1-inositol transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sn-Glycero-3-phospho-1-inositol"
+  ],
+  "products": [
+   "Sn-Glycero-3-phospho-1-inositol"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "G3PSabcpp",
+  "name": "Sn-glycerol-3-phosphoserine transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Glycerophosphoserine",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Glycerophosphoserine",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 19,
+  "qrfp_filt": 5,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "GALCTNtex",
+  "name": "D-galactonate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Galactonate"
+  ],
+  "products": [
+   "D-Galactonate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "GALtex",
+  "name": "D-galactose transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Galactose"
+  ],
+  "products": [
+   "D-Galactose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "GAMtex",
+  "name": "D-glucosamine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Glucosamine"
+  ],
+  "products": [
+   "D-Glucosamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 1,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "GLCP",
+  "name": "Glycogen phosphorylase",
+  "ec": "N/A",
+  "reactants": [
+   "Glycogen C6H10O5",
+   "Phosphate"
+  ],
+  "products": [
+   "D-Glucose 1-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "GLCtex_copy2",
+  "name": "Glucose transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Glucose"
+  ],
+  "products": [
+   "D-Glucose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "GLUDy",
+  "name": "Glutamate dehydrogenase (NADP)",
+  "ec": "1.4.1.13; 1.4.1.3; 1.4.1.4",
+  "reactants": [
+   "L-Glutamate",
+   "H2O H2O",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "products": [
+   "2-Oxoglutarate",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Ammonium"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "GLYALDtex",
+  "name": "Glyceraldehyde transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Glyceraldehyde"
+  ],
+  "products": [
+   "D-Glyceraldehyde"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "GLYC3Ptex",
+  "name": "Glycerol-3-phosphate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Glycerol 3-phosphate"
+  ],
+  "products": [
+   "Glycerol 3-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 20,
+  "qrfp_kept": 22
+ },
+ {
+  "id": "GMPS2",
+  "name": "GMP synthase",
+  "ec": "6.3.5.2",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "L-Glutamine",
+   "H2O H2O",
+   "Xanthosine 5'-phosphate"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "L-Glutamate",
+   "GMP C10H12N5O8P",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "GP4GH",
+  "name": "Gp4G hydrolase",
+  "ec": "N/A",
+  "reactants": [
+   "P1,P4-Bis(5'-guanosyl) tetraphosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "GDP C10H12N5O11P2",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 11
+ },
+ {
+  "id": "GSPMDA",
+  "name": "Glutathionylspermidine amidase",
+  "ec": "3.5.1.-; 3.5.1.78",
+  "reactants": [
+   "Glutathionylspermidine",
+   "H2O H2O"
+  ],
+  "products": [
+   "Reduced glutathione",
+   "Spermidine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "GTHRDtex",
+  "name": "Glutathione transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Reduced glutathione"
+  ],
+  "products": [
+   "Reduced glutathione"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 9,
+  "qrfp_kept": 7
+ },
+ {
+  "id": "GTPDPK",
+  "name": "GTP diphosphokinase",
+  "ec": "2.7.6.5",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "GTP C10H12N5O14P3"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Guanosine 3'-diphosphate 5'-triphosphate",
+   "H+"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "H2Otex",
+  "name": "H2O transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O"
+  ],
+  "products": [
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 3,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "HACD2",
+  "name": "3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA)",
+  "ec": "1.1.1.35; 1.1.1.211",
+  "reactants": [
+   "3-Oxohexanoyl-CoA",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "(S)-3-Hydroxyhexanoyl-CoA",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "HACD5",
+  "name": "3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA)",
+  "ec": "1.1.1.35; 1.1.1.211",
+  "reactants": [
+   "3-Oxododecanoyl-CoA",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "(S)-3-Hydroxydodecanoyl-CoA",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "HG2tex",
+  "name": "Mercury (Hg+2) transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Mercury  charged 2  Hg"
+  ],
+  "products": [
+   "Mercury  charged 2  Hg"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 33,
+  "qrfp_kept": 54
+ },
+ {
+  "id": "HISt2rpp",
+  "name": "L-histidine reversible transport via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "L-Histidine"
+  ],
+  "products": [
+   "H+",
+   "L-Histidine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "HPPPNtex",
+  "name": "3-(3-hydroxyphenyl)propionate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "3-(3-hydroxy-phenyl)propionate"
+  ],
+  "products": [
+   "3-(3-hydroxy-phenyl)propionate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "HXAtex",
+  "name": "Hexanoate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Hexanoate (n-C6:0)"
+  ],
+  "products": [
+   "Hexanoate (n-C6:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "HXPRT",
+  "name": "Hypoxanthine phosphoribosyltransferase (Hypoxanthine)",
+  "ec": "2.4.2.8",
+  "reactants": [
+   "Hypoxanthine",
+   "5-Phospho-alpha-D-ribose 1-diphosphate"
+  ],
+  "products": [
+   "IMP C10H11N4O8P",
+   "Diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "K2L4Aabctex",
+  "name": "KDO(2)-lipid IV A transport via ABC system (periplasm to extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "KDO(2)-lipid IV(A)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "KDO(2)-lipid IV(A)",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 44
+ },
+ {
+  "id": "Ktex",
+  "name": "Potassium transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Potassium"
+  ],
+  "products": [
+   "Potassium"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "LALADGLUtex",
+  "name": "L-alanyl-D-glutamate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-alanine-D-glutamate"
+  ],
+  "products": [
+   "L-alanine-D-glutamate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "LEUabcpp",
+  "name": "L-leucine transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "L-Leucine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "L-Leucine",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 29,
+  "qrfp_filt": 10,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LIPACabcpp",
+  "name": "Lipid (cold) A transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Cold adapted KDO(2)-lipid (A)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Cold adapted KDO(2)-lipid (A)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "LIPAabcpp",
+  "name": "Lipid A transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "KDO(2)-lipid (A)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "KDO(2)-lipid (A)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 32,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LIPAabctex",
+  "name": "Lipid A transport via ABC system (periplasm to extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "KDO(2)-lipid (A)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "KDO(2)-lipid (A)",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 66
+ },
+ {
+  "id": "LPLIPAL1A140pp",
+  "name": "Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:0) (periplasm)",
+  "ec": "3.1.1.5",
+  "reactants": [
+   "1-tetradecanoyl-sn-glycerol 3-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerol 3-phosphate",
+   "H+",
+   "Tetradecanoate (n-C14:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL1A181pp",
+  "name": "Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "1-octadec-11-enoyl-sn-glycerol 3-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerol 3-phosphate",
+   "H+",
+   "Octadecenoate (n-C18:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL1G161pp",
+  "name": "Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "1-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerophosphoglycerol",
+   "H+",
+   "Hexadecenoate (n-C16:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2A160",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:0)",
+  "ec": "3.1.1.5",
+  "reactants": [
+   "2-hexadecanoyl-sn-glycerol 3-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerol 3-phosphate",
+   "H+",
+   "Hexadecanoate (n-C16:0)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2A161",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:1)",
+  "ec": "N/A",
+  "reactants": [
+   "2-hexadec-9-enoyl-sn-glycerol 3-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerol 3-phosphate",
+   "H+",
+   "Hexadecenoate (n-C16:1)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 2,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2ATE120",
+  "name": "Lysophospholipase L2 (acyltransferase, 2-acyl-glycerophosphoethanolamine, n-C12:0)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C12:0)",
+   "Phosphatidylglycerol (didodecanoyl, n-C12:0)"
+  ],
+  "products": [
+   "Acyl phosphatidylglycerol (n-C12:0)",
+   "Sn-Glycero-3-phosphoethanolamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2ATE180",
+  "name": "Lysophospholipase L2 (acyltransferase, 2-acyl-glycerophosphoethanolamine, n-C18:0)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:0)",
+   "Phosphatidylglycerol (dioctadecanoyl, n-C18:0)"
+  ],
+  "products": [
+   "Acyl phosphatidylglycerol (n-C18:0)",
+   "Sn-Glycero-3-phosphoethanolamine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2ATG140",
+  "name": "Lysophospholipase L2 (acyltransferase, 2-acyl-glycerophosphoglycerol, n-C14:0)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)",
+   "Phosphatidylglycerol (ditetradecanoyl, n-C14:0)"
+  ],
+  "products": [
+   "Acyl phosphatidylglycerol (n-C14:0)",
+   "Glycerophosphoglycerol"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "LPLIPAL2E161",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C16:1)",
+   "H2O H2O"
+  ],
+  "products": [
+   "Sn-Glycero-3-phosphoethanolamine",
+   "H+",
+   "Hexadecenoate (n-C16:1)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "LPLIPAL2E181",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:1)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)",
+   "H2O H2O"
+  ],
+  "products": [
+   "Sn-Glycero-3-phosphoethanolamine",
+   "H+",
+   "Octadecenoate (n-C18:1)"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 6,
+  "qrfp_filt": 1,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "LSERDHr",
+  "name": "L-serine dehydrogenase",
+  "ec": "1.1.1.276",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide phosphate",
+   "L-Serine"
+  ],
+  "products": [
+   "2-Aminomalonate semialdehyde",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 22,
+  "qrfp_filt": 7,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MDDCP1pp",
+  "name": "Murein D,D-carboxypeptidase (murein5px4p) (periplasm)",
+  "ec": "3.4.16.4",
+  "reactants": [
+   "H2O H2O",
+   "Two disacharide linked murein units, pentapeptide crosslinked tetrapeptide (A2pm->D-ala) (middle of chain)"
+  ],
+  "products": [
+   "D-Alanine",
+   "Two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MDDCP3pp",
+  "name": "Murein D,D-carboxypeptidase (murein5p5p) (periplasm)",
+  "ec": "3.4.16.4",
+  "reactants": [
+   "H2O H2O",
+   "Two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)"
+  ],
+  "products": [
+   "D-Alanine",
+   "Two linked disacharide pentapeptide and tetrapeptide murein units (uncrosslinked, middle of chain)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MDDEP4pp",
+  "name": "Murein D,D-endopeptidase (murein4px4px4p) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala) & tetrapeptide corsslinked tetrapeptide (A2pm->D-ala)) (middle of chain)"
+  ],
+  "products": [
+   "Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "METDtex",
+  "name": "D-methionine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Methionine"
+  ],
+  "products": [
+   "D-Methionine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "METSOXR1",
+  "name": "L-methionine-S-oxide reductase",
+  "ec": "1.8.4.14; 1.8.4.13",
+  "reactants": [
+   "L-Methionine Sulfoxide",
+   "Reduced thioredoxin"
+  ],
+  "products": [
+   "H2O H2O",
+   "L-Methionine",
+   "Oxidized thioredoxin"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MLDCP1Bpp",
+  "name": "Murein L,D-carboxypeptidase (murein4p4p) (periplasm)",
+  "ec": "3.4.17.13",
+  "reactants": [
+   "H2O H2O",
+   "Two linked disacharide tetrapeptide murein units (uncrosslinked, middle of chain)"
+  ],
+  "products": [
+   "D-Alanine",
+   "Two linked disacharide tetrapeptide and tripeptide murein units (uncrosslinked, middle of chain)"
+  ],
+  "drfp_filt": 4,
+  "drfp_kept": 4,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MLTG5",
+  "name": "Maltodextrin glucosidase (maltoheptaose)",
+  "ec": "3.2.1.20",
+  "reactants": [
+   "H2O H2O",
+   "Maltoheptaose"
+  ],
+  "products": [
+   "D-Glucose",
+   "Maltohexaose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MLTP3",
+  "name": "Maltodextrin phosphorylase (maltoheptaose)",
+  "ec": "2.4.1.1",
+  "reactants": [
+   "Maltoheptaose",
+   "Phosphate"
+  ],
+  "products": [
+   "D-Glucose 1-phosphate",
+   "Maltohexaose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "MNLtex",
+  "name": "Mannitol transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Mannitol"
+  ],
+  "products": [
+   "D-Mannitol"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "MNtex",
+  "name": "Manganese (Mn+2) transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Manganese"
+  ],
+  "products": [
+   "Manganese"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "MOBDtex",
+  "name": "Molybdate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Molybdate"
+  ],
+  "products": [
+   "Molybdate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "NODOx",
+  "name": "Nitric oxide dioxygenase",
+  "ec": "1.14.12.17",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide - reduced",
+   "Nitric oxide",
+   "O2 O2"
+  ],
+  "products": [
+   "H+",
+   "Nicotinamide adenine dinucleotide",
+   "Nitrate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "NTD1pp",
+  "name": "5'-nucleotidase (dUMP)",
+  "ec": "3.1.3.5; 3.1.3.89",
+  "reactants": [
+   "DUMP C9H11N2O8P",
+   "H2O H2O"
+  ],
+  "products": [
+   "Deoxyuridine",
+   "Phosphate"
+  ],
+  "drfp_filt": 4,
+  "drfp_kept": 1,
+  "qrfp_filt": 9,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "NTD2pp",
+  "name": "5'-nucleotidase (UMP)",
+  "ec": "3.1.3.5",
+  "reactants": [
+   "H2O H2O",
+   "UMP C9H11N2O9P"
+  ],
+  "products": [
+   "Phosphate",
+   "Uridine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 8,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "NTD5pp",
+  "name": "5'-nucleotidase (dTMP)",
+  "ec": "3.1.3.35; 3.1.3.89; 3.1.3.5",
+  "reactants": [
+   "DTMP C10H13N2O8P",
+   "H2O H2O"
+  ],
+  "products": [
+   "Phosphate",
+   "Thymidine C10H14N2O5"
+  ],
+  "drfp_filt": 4,
+  "drfp_kept": 1,
+  "qrfp_filt": 11,
+  "qrfp_kept": 8
+ },
+ {
+  "id": "NTPP2",
+  "name": "Nucleoside triphosphate pyrophosphorylase (gtp)",
+  "ec": "3.6.1.8; 3.6.1.-; 3.6.1.9",
+  "reactants": [
+   "GTP C10H12N5O14P3",
+   "H2O H2O"
+  ],
+  "products": [
+   "GMP C10H12N5O8P",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 37,
+  "qrfp_kept": 44
+ },
+ {
+  "id": "NTPP8",
+  "name": "Nucleoside triphosphate pyrophosphorylase (utp)",
+  "ec": "3.6.1.8; 3.6.1.9",
+  "reactants": [
+   "H2O H2O",
+   "UTP C9H11N2O15P3"
+  ],
+  "products": [
+   "H+",
+   "Diphosphate",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 6,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "PAPA140",
+  "name": "Phosphatidate phosphatase (n-C14:0)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "1,2-ditetradecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "1,2-Diacyl-sn-glycerol (ditetradecanoyl, n-C14:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PAPA161pp",
+  "name": "Phosphatidate phosphatase (periplasmic, n-C16:1)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",
+   "Phosphate"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PAPSR",
+  "name": "Phosphoadenylyl-sulfate reductase (thioredoxin)",
+  "ec": "1.8.4.8",
+  "reactants": [
+   "3'-Phosphoadenylyl sulfate",
+   "Reduced thioredoxin"
+  ],
+  "products": [
+   "H+",
+   "Adenosine 3',5'-bisphosphate",
+   "Sulfite",
+   "Oxidized thioredoxin"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PE120abcpp",
+  "name": "Phosphatidylethanolamine transport via ABC system (n-C12:0, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Phosphatidylethanolamine (didodecanoyl, n-C12:0)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphatidylethanolamine (didodecanoyl, n-C12:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PE180abcpp",
+  "name": "Phosphatidylethanolamine transport via ABC system (n-C18:0, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphatidylethanolamine (dioctadecanoyl, n-C18:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PETNT161pp",
+  "name": "Phosphoethanolamine transferase (c-C16:1)",
+  "ec": "N/A",
+  "reactants": [
+   "KDO(2)-lipid (A)",
+   "Phosphatidylethanolamine (dihexadec-9enoyl, n-C16:1)"
+  ],
+  "products": [
+   "1,2-Diacyl-sn-glycerol (dihexadec-9-enoyl, n-C16:1)",
+   "Phosphoethanolamine KDO(2)-lipid (A)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PG160abcpp",
+  "name": "Phosphatidylglycerol transport via ABC system (n-C16:0, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Phosphatidylglycerol (dihexadecanoyl, n-C16:0)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PGPP160",
+  "name": "Phosphatidylglycerol phosphate phosphatase (n-C16:0)",
+  "ec": "3.1.3.27",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)"
+  ],
+  "products": [
+   "Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PGPP160pp",
+  "name": "Phosphatidylglycerol phosphate phosphatase (periplasm, n-C16:0)",
+  "ec": "3.1.3.27",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerophosphate (dihexadecanoyl, n-C16:0)"
+  ],
+  "products": [
+   "Phosphatidylglycerol (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PGPP161pp",
+  "name": "Phosphatidylglycerol phosphate phosphatase (periplasm, n-C16:1)",
+  "ec": "3.1.3.27",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerophosphate (dihexadec-9-enoyl, n-C16:1)"
+  ],
+  "products": [
+   "Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PGPP180pp",
+  "name": "Phosphatidylglycerol phosphate phosphatase (periplasm, n-C18:0)",
+  "ec": "3.1.3.27",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerophosphate (dioctadecanoyl, n-C18:0)"
+  ],
+  "products": [
+   "Phosphatidylglycerol (dioctadecanoyl, n-C18:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PLIPA1A160pp",
+  "name": "Phospholipase A1 (phosphatidate, n-C16:0) (periplasm)",
+  "ec": "3.1.1.32",
+  "reactants": [
+   "H2O H2O",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "2-hexadecanoyl-sn-glycerol 3-phosphate",
+   "Hexadecanoate (n-C16:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PLIPA1A161pp",
+  "name": "Phospholipase A1 (phosphatidate, n-C16:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "1,2-dihexadec-9-enoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "2-hexadec-9-enoyl-sn-glycerol 3-phosphate",
+   "Hexadecenoate (n-C16:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PLIPA1G140pp",
+  "name": "Phospholipase A1 (phosphatidylglycerol, n-C14:0) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerol (ditetradecanoyl, n-C14:0)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:0)",
+   "H+",
+   "Tetradecanoate (n-C14:0)"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PLIPA1G161pp",
+  "name": "Phospholipase A1 (phosphatidylglycerol, n-C16:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerol (dihexadec-9-enoyl, n-C16:1)"
+  ],
+  "products": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C16:1)",
+   "H+",
+   "Hexadecenoate (n-C16:1)"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 1,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PLIPA2E181pp",
+  "name": "Phospholipase A2 (phosphatidylethanolamine, n-C18:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylethanolamine (dioctadec-11-enoyl, n-C18:1)"
+  ],
+  "products": [
+   "1-Acyl-sn-glycero-3-phosphoethanolamine (n-C18:1)",
+   "H+",
+   "Octadecenoate (n-C18:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "PLIPA2G181pp",
+  "name": "Phospholipase A2 (phosphatidylglycerol, n-C18:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Phosphatidylglycerol (dioctadec-11-enoyl, n-C18:1)"
+  ],
+  "products": [
+   "1-Acyl-sn-glycero-3-phosphoglycerol (n-C18:1)",
+   "H+",
+   "Octadecenoate (n-C18:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PPGPPDP",
+  "name": "Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase",
+  "ec": "3.1.7.2",
+  "reactants": [
+   "H2O H2O",
+   "Guanosine 3',5'-bis(diphosphate)"
+  ],
+  "products": [
+   "GDP C10H12N5O11P2",
+   "Diphosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PPK",
+  "name": "Polyphosphate kinase",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Phosphate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PPPGO",
+  "name": "Protoporphyrinogen oxidase (aerobic)",
+  "ec": "1.3.3.4",
+  "reactants": [
+   "O2 O2",
+   "Protoporphyrinogen IX"
+  ],
+  "products": [
+   "H2O H2O",
+   "Protoporphyrin"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PSSA141",
+  "name": "Phosphatidylserine syntase (n-C14:1)",
+  "ec": "N/A",
+  "reactants": [
+   "CDP-1,2-ditetradec-7-enoylglycerol",
+   "L-Serine"
+  ],
+  "products": [
+   "CMP C9H12N3O8P",
+   "H+",
+   "Phosphatidylserine (ditetradec-7-enoyl, n-C14:1)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PSSA180",
+  "name": "Phosphatidylserine syntase (n-C18:0)",
+  "ec": "2.7.8.8",
+  "reactants": [
+   "CDP-1,2-dioctadecanoylglycerol",
+   "L-Serine"
+  ],
+  "products": [
+   "CMP C9H12N3O8P",
+   "H+",
+   "Phosphatidylserine (dioctadecanoyl, n-C18:0)"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PUNP3",
+  "name": "Purine-nucleoside phosphorylase (Guanosine)",
+  "ec": "2.4.2.15; 2.4.2.1",
+  "reactants": [
+   "Guanosine",
+   "Phosphate"
+  ],
+  "products": [
+   "Guanine",
+   "Alpha-D-Ribose 1-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PUNP6",
+  "name": "Purine-nucleoside phosphorylase (Deoxyinosine)",
+  "ec": "2.4.2.1; 2.4.2.4",
+  "reactants": [
+   "Deoxyinosine",
+   "Phosphate"
+  ],
+  "products": [
+   "2-Deoxy-D-ribose 1-phosphate",
+   "Hypoxanthine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "PYK3",
+  "name": "Pyruvate kinase(3)",
+  "ec": "2.7.1.40",
+  "reactants": [
+   "GDP C10H12N5O11P2",
+   "H+",
+   "Phosphoenolpyruvate"
+  ],
+  "products": [
+   "GTP C10H12N5O14P3",
+   "Pyruvate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 10,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "PYRtex",
+  "name": "Pyruvate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Pyruvate"
+  ],
+  "products": [
+   "Pyruvate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "QUINDH",
+  "name": "Quinate dehydrogenase",
+  "ec": "1.1.1.24; 1.1.1.282",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide",
+   "Quinate"
+  ],
+  "products": [
+   "3-Dehydroquinate",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "R5Ptex",
+  "name": "Ribose 5-phosphate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Alpha-D-Ribose 5-phosphate"
+  ],
+  "products": [
+   "Alpha-D-Ribose 5-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 11,
+  "qrfp_kept": 10
+ },
+ {
+  "id": "RNDR4b",
+  "name": "Ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)",
+  "ec": "N/A",
+  "reactants": [
+   "Glutaredoxin (reduced)",
+   "UDP C9H11N2O12P2"
+  ],
+  "products": [
+   "DUDP C9H11N2O11P2",
+   "Glutaredoxin (oxidized)",
+   "H2O H2O"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "RNTR1c2",
+  "name": "Ribonucleoside-triphosphate reductase (ATP) (flavodoxin)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Flavodoxin reduced",
+   "H+"
+  ],
+  "products": [
+   "DATP C10H12N5O12P3",
+   "Flavodoxin semi oxidized",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 1,
+  "qrfp_filt": null,
+  "qrfp_kept": 13
+ },
+ {
+  "id": "SBTptspp",
+  "name": "D-sorbitol transport via PEP:Pyr PTS (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Phosphoenolpyruvate",
+   "D-Sorbitol"
+  ],
+  "products": [
+   "Pyruvate",
+   "D-Sorbitol 6-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "SKMtex",
+  "name": "Shikimate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Shikimate"
+  ],
+  "products": [
+   "Shikimate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 4,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "SO2tex",
+  "name": "SO2 transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sulfur dioxide"
+  ],
+  "products": [
+   "Sulfur dioxide"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "SO4tex",
+  "name": "Sulfate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sulfate"
+  ],
+  "products": [
+   "Sulfate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "SOTA",
+  "name": "Succinylornithine transaminase",
+  "ec": "2.6.1.81",
+  "reactants": [
+   "2-Oxoglutarate",
+   "N2-Succinyl-L-ornithine"
+  ],
+  "products": [
+   "L-Glutamate",
+   "N2-Succinyl-L-glutamate 5-semialdehyde"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "SPMS",
+  "name": "Spermidine synthase",
+  "ec": "2.5.1.16",
+  "reactants": [
+   "S-Adenosylmethioninamine",
+   "Putrescine"
+  ],
+  "products": [
+   "5-Methylthioadenosine",
+   "H+",
+   "Spermidine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "SSALx",
+  "name": "Succinate-semialdehyde dehydrogenase (NAD)",
+  "ec": "1.2.1.16; 1.2.1.24",
+  "reactants": [
+   "H2O H2O",
+   "Nicotinamide adenine dinucleotide",
+   "Succinic semialdehyde"
+  ],
+  "products": [
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced",
+   "Succinate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "TARTRDtex",
+  "name": "D-tartrate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-tartrate"
+  ],
+  "products": [
+   "D-tartrate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "TARTRtex",
+  "name": "Tartrate transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-tartrate"
+  ],
+  "products": [
+   "L-tartrate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "TDSR1",
+  "name": "Thiol:disulfide reductase (DsbC)",
+  "ec": "N/A",
+  "reactants": [
+   "Protein disulfide isomerase II (oxidized)",
+   "Fused thiol:disulfide interchange protein (reduced)"
+  ],
+  "products": [
+   "Protein disulfide isomerase II (reduced)",
+   "Fused thiol:disulfide interchange protein (oxidized)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "THIORDXi",
+  "name": "Hydrogen peroxide reductase (thioredoxin)",
+  "ec": "1.11.1.15; 1.11.1.16",
+  "reactants": [
+   "Hydrogen peroxide",
+   "Reduced thioredoxin"
+  ],
+  "products": [
+   "H2O H2O",
+   "Oxidized thioredoxin"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "THRPtex",
+  "name": "Phospho-L-threonine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Threonine O-3-phosphate"
+  ],
+  "products": [
+   "L-Threonine O-3-phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 9,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "THRtex",
+  "name": "L-threonine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Threonine"
+  ],
+  "products": [
+   "L-Threonine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 8,
+  "qrfp_kept": 7
+ },
+ {
+  "id": "THYMtex",
+  "name": "Thymine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Thymine C5H6N2O2"
+  ],
+  "products": [
+   "Thymine C5H6N2O2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "TMDK1",
+  "name": "Thymidine kinase (ATP:thymidine)",
+  "ec": "2.7.1.145; 2.7.1.21",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Thymidine C10H14N2O5"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "DTMP C10H13N2O8P",
+   "H+"
+  ],
+  "drfp_filt": 11,
+  "drfp_kept": 1,
+  "qrfp_filt": 6,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "TMDPP",
+  "name": "Thymidine phosphorylase",
+  "ec": "2.4.2.4; 2.4.2.2",
+  "reactants": [
+   "Phosphate",
+   "Thymidine C10H14N2O5"
+  ],
+  "products": [
+   "2-Deoxy-D-ribose 1-phosphate",
+   "Thymine C5H6N2O2"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "TREtex",
+  "name": "Trehalose transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Trehalose"
+  ],
+  "products": [
+   "Trehalose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 21,
+  "qrfp_kept": 16
+ },
+ {
+  "id": "TRPS1",
+  "name": "Tryptophan synthase (indoleglycerol phosphate)",
+  "ec": "4.2.1.20",
+  "reactants": [
+   "C'-(3-Indolyl)-glycerol 3-phosphate",
+   "L-Serine"
+  ],
+  "products": [
+   "Glyceraldehyde 3-phosphate",
+   "H2O H2O",
+   "L-Tryptophan"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "TYRtex",
+  "name": "L-tyrosine transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Tyrosine"
+  ],
+  "products": [
+   "L-Tyrosine"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "UACGAMPpp",
+  "name": "UDP-N-acetyl-D-glucosamine pyrophosphohydrolase (periplasm)",
+  "ec": "3.6.1.45",
+  "reactants": [
+   "H2O H2O",
+   "UDP-N-acetyl-D-glucosamine"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine 1-phosphate",
+   "H+",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "UDCPDPpp",
+  "name": "Undecaprenyl-diphosphatase (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Undecaprenyl diphosphate"
+  ],
+  "products": [
+   "H+",
+   "Phosphate",
+   "Undecaprenyl phosphate"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "UDPGtex",
+  "name": "UDPglucose transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "UDPglucose"
+  ],
+  "products": [
+   "UDPglucose"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 3,
+  "qrfp_filt": 2,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "UGLCURPpp",
+  "name": "UDP-D-glucuronate pyrophosphohydrolase (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "UDP-D-glucuronate"
+  ],
+  "products": [
+   "D-Glucuronate 1-phosphate",
+   "H+",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 1,
+  "qrfp_filt": 4,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "URIK1",
+  "name": "Uridine kinase  ATPUridine",
+  "ec": "2.7.1.48; 2.7.1.213",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Uridine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": 21,
+  "drfp_kept": 1,
+  "qrfp_filt": 41,
+  "qrfp_kept": 43
+ },
+ {
+  "id": "URIK2",
+  "name": "Uridine kinase (GTP:Uridine)",
+  "ec": "2.7.1.48",
+  "reactants": [
+   "GTP C10H12N5O14P3",
+   "Uridine"
+  ],
+  "products": [
+   "GDP C10H12N5O11P2",
+   "H+",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": 1,
+  "drfp_kept": 1,
+  "qrfp_filt": 1,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "VALabcpp",
+  "name": "L-valine transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "L-Valine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "L-Valine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 29,
+  "qrfp_filt": 3,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "XYLK2",
+  "name": "L-xylulokinase",
+  "ec": "2.7.1.53",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "L-Xylulose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "L-Xylulose 5-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": 1
+ },
+ {
+  "id": "AGM3PA",
+  "name": "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide amidase",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide",
+   "H2O H2O"
+  ],
+  "products": [
+   "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramic acid"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "F1PP",
+  "name": "D-fructose 1-phosphate phosphatase",
+  "ec": "N/A",
+  "reactants": [
+   "D-Fructose 1-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "D-Fructose",
+   "Phosphate"
+  ],
+  "drfp_filt": 11,
+  "drfp_kept": 12,
+  "qrfp_filt": 3,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "FADRx2",
+  "name": "FAD reductase",
+  "ec": "1.5.1.45; 1.5.1.30",
+  "reactants": [
+   "Flavin adenine dinucleotide oxidized",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "Flavin adenine dinucleotide reduced",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 2,
+  "qrfp_filt": null,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "FORtppi",
+  "name": "Formate transport via diffusion (cytoplasm to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Formate"
+  ],
+  "products": [
+   "Formate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "G3PD6",
+  "name": "Glycerol-3-phosphate dehydrogenase (menaquinone-8)",
+  "ec": "N/A",
+  "reactants": [
+   "Glycerol 3-phosphate",
+   "Menaquinone 8"
+  ],
+  "products": [
+   "Dihydroxyacetone phosphate",
+   "Menaquinol 8"
+  ],
+  "drfp_filt": 7,
+  "drfp_kept": 4,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "I2FE2ST",
+  "name": "ISC [2Fe-2S] Transfer",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "IscU with bound [2Fe-2S] cluster"
+  ],
+  "products": [
+   "[2Fe-2S] iron-sulfur cluster",
+   "IscU scaffold protein"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 2,
+  "qrfp_filt": null,
+  "qrfp_kept": 23
+ },
+ {
+  "id": "KAS15",
+  "name": "Beta-ketoacyl-ACP synthase (2)",
+  "ec": "2.3.1.180",
+  "reactants": [
+   "Acetyl-CoA",
+   "H+",
+   "Malonyl-[acyl-carrier protein]"
+  ],
+  "products": [
+   "Acetoacetyl-ACP",
+   "CO2 CO2",
+   "Coenzyme A"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 11,
+  "qrfp_filt": 2,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "LPLIPAL2E141",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:1)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoethanolamine (n-C14:1)",
+   "H2O H2O"
+  ],
+  "products": [
+   "Sn-Glycero-3-phosphoethanolamine",
+   "H+",
+   "Tetradecenoate (n-C14:1)"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 6,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "LPLIPAL2G141",
+  "name": "Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:1)",
+  "ec": "N/A",
+  "reactants": [
+   "2-Acyl-sn-glycero-3-phosphoglycerol (n-C14:1)",
+   "H2O H2O"
+  ],
+  "products": [
+   "Glycerophosphoglycerol",
+   "H+",
+   "Tetradecenoate (n-C14:1)"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "METOX2s",
+  "name": "Methionine oxidation 2 (spontaneous)",
+  "ec": "N/A",
+  "reactants": [
+   "Hydrogen peroxide",
+   "L-Methionine"
+  ],
+  "products": [
+   "H2O H2O",
+   "L-methionine-R-sulfoxide"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 2,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "MINCYCtpp",
+  "name": "Minocycline transport via TolC system",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Minocycline"
+  ],
+  "products": [
+   "H+",
+   "Minocycline"
+  ],
+  "drfp_filt": 52,
+  "drfp_kept": 49,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "NO2t2rpp",
+  "name": "Nitrite transport in via proton symport, reversible (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Nitrite"
+  ],
+  "products": [
+   "H+",
+   "Nitrite"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 3,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "NTP10",
+  "name": "Nucleoside-triphosphatase (ITP)",
+  "ec": "3.6.1; 3.6.1.5",
+  "reactants": [
+   "H2O H2O",
+   "ITP C10H11N4O14P3"
+  ],
+  "products": [
+   "H+",
+   "IDP C10H11N4O11P2",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 12,
+  "qrfp_filt": 2,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "NTP5",
+  "name": "Nucleoside-triphosphatase (CTP)",
+  "ec": "3.6.1.5; 3.6.1.15",
+  "reactants": [
+   "CTP C9H12N3O14P3",
+   "H2O H2O"
+  ],
+  "products": [
+   "CDP C9H12N3O11P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": 12,
+  "qrfp_filt": 20,
+  "qrfp_kept": 16
+ },
+ {
+  "id": "PA160abcpp",
+  "name": "Phosphatidate transport via ABC system (n-C16:0, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 32,
+  "qrfp_filt": 28,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "PE160abcpp",
+  "name": "Phosphatidylethanolamine transport via ABC system (n-C16:0, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphatidylethanolamine (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 32,
+  "qrfp_filt": 7,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "PPND",
+  "name": "Prephenate dehydrogenase",
+  "ec": "1.3.1.12",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide",
+   "Prephenate"
+  ],
+  "products": [
+   "3-(4-Hydroxyphenyl)pyruvate",
+   "CO2 CO2",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": null,
+  "qrfp_filt": 2,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SHK3Dr",
+  "name": "Shikimate dehydrogenase",
+  "ec": "1.1.1.25; 1.1.1.282",
+  "reactants": [
+   "3-Dehydroshikimate",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "Nicotinamide adenine dinucleotide phosphate",
+   "Shikimate"
+  ],
+  "drfp_filt": 2,
+  "drfp_kept": null,
+  "qrfp_filt": 12,
+  "qrfp_kept": 70
+ },
+ {
+  "id": "UMPK",
+  "name": "UMP kinase",
+  "ec": "2.7.4.4; 2.7.4.22; 2.7.4.14",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "UMP C9H11N2O9P"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "UDP C9H11N2O12P2"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 3,
+  "qrfp_filt": 7,
+  "qrfp_kept": 2
+ },
+ {
+  "id": "ACALDtpp",
+  "name": "Acetaldehyde reversible transport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Acetaldehyde"
+  ],
+  "products": [
+   "Acetaldehyde"
+  ],
+  "drfp_filt": 50,
+  "drfp_kept": 10,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "ACt2rpp",
+  "name": "Acetate reversible transport via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Acetate",
+   "H+"
+  ],
+  "products": [
+   "Acetate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "ADNt2pp_copy1",
+  "name": "Adenosine transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Adenosine",
+   "H+"
+  ],
+  "products": [
+   "Adenosine",
+   "H+"
+  ],
+  "drfp_filt": 3,
+  "drfp_kept": 32,
+  "qrfp_filt": 12,
+  "qrfp_kept": 33
+ },
+ {
+  "id": "ARHGDx",
+  "name": "(R)-alpha-hydroxyglutarate dehydrogenase",
+  "ec": "N/A",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide",
+   "(R)-2-Hydroxyglutarate"
+  ],
+  "products": [
+   "2-Oxoglutarate",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": 7,
+  "drfp_kept": 3,
+  "qrfp_filt": 14,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "CHLt2pp",
+  "name": "Choline transport via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Choline C5H14NO",
+   "H+"
+  ],
+  "products": [
+   "Choline C5H14NO",
+   "H+"
+  ],
+  "drfp_filt": 87,
+  "drfp_kept": 88,
+  "qrfp_filt": 6,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "FMNAT",
+  "name": "FMN adenylyltransferase",
+  "ec": "2.7.7.2",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "FMN C17H19N4O9P",
+   "H+"
+  ],
+  "products": [
+   "Flavin adenine dinucleotide oxidized",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "GUAt2pp",
+  "name": "Guanine transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Guanine",
+   "H+"
+  ],
+  "products": [
+   "Guanine",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "LALADGLUtpp",
+  "name": "L-alanyl-D-glutamate transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-alanine-D-glutamate",
+   "H+"
+  ],
+  "products": [
+   "L-alanine-D-glutamate",
+   "H+"
+  ],
+  "drfp_filt": 72,
+  "drfp_kept": 71,
+  "qrfp_filt": 4,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "MLTGY4pp",
+  "name": "Murein lytic transglycosylase (murein4px4p4p) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Three disacharide linked murein units (tetrapeptide crosslinked tetrapeptide (A2pm->D-ala), one uncrosslinked tetrapaptide) (middle of chain)"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide",
+   "Two disacharide linked murein units, tetrapeptide corsslinked tetrapeptide (A2pm->D-ala) (middle of chain)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "NADH10",
+  "name": "NADH dehydrogenase (menaquinone-8 & 0 protons)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Menaquinone 8",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "Menaquinol 8",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": 22,
+  "drfp_kept": 3,
+  "qrfp_filt": 23,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "NTPP6",
+  "name": "Nucleoside triphosphate pyrophosphorylase (atp)",
+  "ec": "3.6.1.8; 3.6.1.9",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 3,
+  "qrfp_filt": null,
+  "qrfp_kept": 88
+ },
+ {
+  "id": "ORNabcpp",
+  "name": "Ornithine transport via ABC system (periplasm)",
+  "ec": "3.6.3.21",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Ornithine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Ornithine",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 31,
+  "qrfp_filt": 21,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "XYLUt2pp",
+  "name": "L-xylulose transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "L-Xylulose"
+  ],
+  "products": [
+   "H+",
+   "L-Xylulose"
+  ],
+  "drfp_filt": 61,
+  "drfp_kept": 38,
+  "qrfp_filt": 3,
+  "qrfp_kept": 3
+ },
+ {
+  "id": "APPLDHr",
+  "name": "Aminopropanol dehydrogenase reversible",
+  "ec": "2.3.1.37; 1.1.1.75",
+  "reactants": [
+   "Aminoacetone",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "products": [
+   "1-Aminopropan-2-ol",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": 6,
+  "drfp_kept": 13,
+  "qrfp_filt": 4,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "ASPt2_3pp",
+  "name": "L-asparate transport via proton symport (3 H) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Aspartate",
+   "H+"
+  ],
+  "products": [
+   "L-Aspartate",
+   "H+"
+  ],
+  "drfp_filt": 12,
+  "drfp_kept": 37,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "GHBDHx",
+  "name": "Gamma-hydroxybutyrate dehydrogenase (NADH)",
+  "ec": "1.1.1.61",
+  "reactants": [
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced",
+   "Succinic semialdehyde"
+  ],
+  "products": [
+   "Gamma-hydroxybutyrate",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 11,
+  "qrfp_filt": null,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "GPDDA2pp",
+  "name": "Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)",
+  "ec": "3.1.4.46; 3.1.4.2",
+  "reactants": [
+   "Sn-Glycero-3-phosphoethanolamine",
+   "H2O H2O"
+  ],
+  "products": [
+   "Ethanolamine",
+   "Glycerol 3-phosphate",
+   "H+"
+  ],
+  "drfp_filt": 16,
+  "drfp_kept": 15,
+  "qrfp_filt": 5,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "LYSabcpp",
+  "name": "L-lysine transport via ABC system (periplasm)",
+  "ec": "3.6.3.21",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "L-Lysine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "L-Lysine",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 31,
+  "qrfp_filt": 21,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "NMNAT",
+  "name": "Nicotinamide-nucleotide adenylyltransferase",
+  "ec": "2.7.7.18; 2.7.7.1",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H+",
+   "NMN C11H14N2O8P"
+  ],
+  "products": [
+   "Nicotinamide adenine dinucleotide",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 8,
+  "qrfp_filt": null,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "UM3PL",
+  "name": "UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase",
+  "ec": "N/A",
+  "reactants": [
+   "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",
+   "ATP C10H12N5O13P3",
+   "UDP-N-acetylmuramate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate"
+  ],
+  "drfp_filt": 40,
+  "drfp_kept": 25,
+  "qrfp_filt": 8,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "XYLK",
+  "name": "Xylulokinase",
+  "ec": "2.7.1.17",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Xylulose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "D-Xylulose 5-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": 4
+ },
+ {
+  "id": "ADOCBLtonex",
+  "name": "Adenosylcobalimin transport via ton system (extermal)",
+  "ec": "N/A",
+  "reactants": [
+   "Adenosylcobalamin",
+   "H+"
+  ],
+  "products": [
+   "Adenosylcobalamin",
+   "H+"
+  ],
+  "drfp_filt": 10,
+  "drfp_kept": 27,
+  "qrfp_filt": 5,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "ADSL2r",
+  "name": "Adenylosuccinate lyase",
+  "ec": "4.3.2.2",
+  "reactants": [
+   "(S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate"
+  ],
+  "products": [
+   "5-Amino-1-(5-Phospho-D-ribosyl)imidazole-4-carboxamide",
+   "Fumarate"
+  ],
+  "drfp_filt": 51,
+  "drfp_kept": 21,
+  "qrfp_filt": 25,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "CBItonex",
+  "name": "Cobinamide transport via ton system (extermal)",
+  "ec": "N/A",
+  "reactants": [
+   "Cobinamide",
+   "H+"
+  ],
+  "products": [
+   "Cobinamide",
+   "H+"
+  ],
+  "drfp_filt": 10,
+  "drfp_kept": 27,
+  "qrfp_filt": 6,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "GLCNt2rpp",
+  "name": "D-gluconate transport via proton symport, reversible (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Gluconate",
+   "H+"
+  ],
+  "products": [
+   "D-Gluconate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 8,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "MLTG1",
+  "name": "Maltodextrin glucosidase (maltotriose)",
+  "ec": "3.2.1.20",
+  "reactants": [
+   "H2O H2O",
+   "Maltotriose C18H32O16"
+  ],
+  "products": [
+   "D-Glucose",
+   "Maltose C12H22O11"
+  ],
+  "drfp_filt": 11,
+  "drfp_kept": 11,
+  "qrfp_filt": 5,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "PUNP5",
+  "name": "Purine-nucleoside phosphorylase (Inosine)",
+  "ec": "2.4.2.15; 2.4.2.1",
+  "reactants": [
+   "Inosine",
+   "Phosphate"
+  ],
+  "products": [
+   "Hypoxanthine",
+   "Alpha-D-Ribose 1-phosphate"
+  ],
+  "drfp_filt": 5,
+  "drfp_kept": 6,
+  "qrfp_filt": 9,
+  "qrfp_kept": 8
+ },
+ {
+  "id": "TRPtipp",
+  "name": "L-tryptophan transport out (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Tryptophan"
+  ],
+  "products": [
+   "L-Tryptophan"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 41,
+  "qrfp_filt": 6,
+  "qrfp_kept": 5
+ },
+ {
+  "id": "14GLUCANabcpp",
+  "name": "1,4-alpha-D-glucan transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "1,4-alpha-D-glucan",
+   "ATP C10H12N5O13P3",
+   "H2O H2O"
+  ],
+  "products": [
+   "1,4-alpha-D-glucan",
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 6,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AGPAT160",
+  "name": "1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)",
+  "ec": "2.3.1.51",
+  "reactants": [
+   "1-hexadecanoyl-sn-glycerol 3-phosphate",
+   "Palmitoyl-ACP (n-C16:0ACP)"
+  ],
+  "products": [
+   "Acyl carrier protein",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "drfp_filt": 7,
+  "drfp_kept": 7,
+  "qrfp_filt": 6,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "NTPP10",
+  "name": "Nucleoside triphosphate pyrophosphorylase (ditp)",
+  "ec": "3.6.1.66; 3.6.1.-",
+  "reactants": [
+   "DITP(4-)",
+   "H2O H2O"
+  ],
+  "products": [
+   "DIMP C10H12N4O7P",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": 10,
+  "drfp_kept": 6,
+  "qrfp_filt": 33,
+  "qrfp_kept": 28
+ },
+ {
+  "id": "OCTNLL",
+  "name": "Octanoate non-lipoylated apo domain ligase",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H+",
+   "Octanoate (n-C8:0)"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Octanoate (protein bound)",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 59,
+  "qrfp_filt": null,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "TKT2",
+  "name": "Transketolase",
+  "ec": "2.2.1.1",
+  "reactants": [
+   "D-Erythrose 4-phosphate",
+   "D-Xylulose 5-phosphate"
+  ],
+  "products": [
+   "D-Fructose 6-phosphate",
+   "Glyceraldehyde 3-phosphate"
+  ],
+  "drfp_filt": 16,
+  "drfp_kept": 13,
+  "qrfp_filt": 8,
+  "qrfp_kept": 6
+ },
+ {
+  "id": "ILEabcpp",
+  "name": "L-isoleucine transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "L-Isoleucine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "L-Isoleucine",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 29,
+  "qrfp_filt": 7,
+  "qrfp_kept": 9
+ },
+ {
+  "id": "THRD_L",
+  "name": "L-threonine deaminase",
+  "ec": "4.3.1.19",
+  "reactants": [
+   "L-Threonine"
+  ],
+  "products": [
+   "2-Oxobutanoate",
+   "Ammonium"
+  ],
+  "drfp_filt": 12,
+  "drfp_kept": 7,
+  "qrfp_filt": 27,
+  "qrfp_kept": 19
+ },
+ {
+  "id": "CYTK2",
+  "name": "Cytidylate kinase (dCMP)",
+  "ec": "2.7.4.13; 2.7.4.14; 2.7.4.25",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "DCMP C9H12N3O7P"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "DCDP C9H12N3O10P2"
+  ],
+  "drfp_filt": 12,
+  "drfp_kept": 8,
+  "qrfp_filt": 42,
+  "qrfp_kept": 11
+ },
+ {
+  "id": "DASYN160",
+  "name": "CDP-diacylglycerol synthetase (n-C16:0)",
+  "ec": "2.7.7.41",
+  "reactants": [
+   "CTP C9H12N3O14P3",
+   "H+",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "CDP-1,2-dihexadecanoylglycerol",
+   "Diphosphate"
+  ],
+  "drfp_filt": 9,
+  "drfp_kept": 13,
+  "qrfp_filt": 11,
+  "qrfp_kept": 8
+ },
+ {
+  "id": "FEOXAMtonex",
+  "name": "Ferroxamine transport via ton system (extracellular)",
+  "ec": "N/A",
+  "reactants": [
+   "Generic ferrioxamine-Fe-III",
+   "H+"
+  ],
+  "products": [
+   "Generic ferrioxamine-Fe-III",
+   "H+"
+  ],
+  "drfp_filt": 10,
+  "drfp_kept": 27,
+  "qrfp_filt": 11,
+  "qrfp_kept": 8
+ },
+ {
+  "id": "VALt2rpp",
+  "name": "L-valine reversible transport via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "L-Valine"
+  ],
+  "products": [
+   "H+",
+   "L-Valine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 11,
+  "qrfp_kept": 8
+ },
+ {
+  "id": "ILEt3pp",
+  "name": "L-isoleucine transport out via proton antiport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "L-Isoleucine"
+  ],
+  "products": [
+   "H+",
+   "L-Isoleucine"
+  ],
+  "drfp_filt": 19,
+  "drfp_kept": null,
+  "qrfp_filt": 13,
+  "qrfp_kept": 9
+ },
+ {
+  "id": "OHPBAT",
+  "name": "O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase",
+  "ec": "2.6.1.52",
+  "reactants": [
+   "L-Glutamate",
+   "2-Oxo-3-hydroxy-4-phosphobutanoate"
+  ],
+  "products": [
+   "2-Oxoglutarate",
+   "O-Phospho-4-hydroxy-L-threonine"
+  ],
+  "drfp_filt": 89,
+  "drfp_kept": 81,
+  "qrfp_filt": 11,
+  "qrfp_kept": 9
+ },
+ {
+  "id": "TYRPpp",
+  "name": "Phospho-L-tyrosine phosphatase (periplasmic)",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Phosphotyrosine"
+  ],
+  "products": [
+   "Phosphate",
+   "L-Tyrosine"
+  ],
+  "drfp_filt": 58,
+  "drfp_kept": null,
+  "qrfp_filt": 14,
+  "qrfp_kept": 9
+ },
+ {
+  "id": "ZN2t3pp",
+  "name": "Zinc (Zn+2) transport out via proton antiport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Zinc"
+  ],
+  "products": [
+   "H+",
+   "Zinc"
+  ],
+  "drfp_filt": 67,
+  "drfp_kept": 66,
+  "qrfp_filt": null,
+  "qrfp_kept": 9
+ },
+ {
+  "id": "4PCPpp",
+  "name": "Tetrapeptide L,D-carboxypeptidase (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",
+   "H2O H2O"
+  ],
+  "products": [
+   "L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate",
+   "D-Alanine"
+  ],
+  "drfp_filt": 10,
+  "drfp_kept": 10,
+  "qrfp_filt": 12,
+  "qrfp_kept": 12
+ },
+ {
+  "id": "CU2abcpp",
+  "name": "Copper (Cu+2) ABC transporter (periplasm)",
+  "ec": "3.6.3.4; 3.6.3",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Copper",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Copper",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 16,
+  "qrfp_filt": null,
+  "qrfp_kept": 10
+ },
+ {
+  "id": "MG2uabcpp",
+  "name": "Magnesium (Mg+2) ABC transporter (ubtake, periplasm)",
+  "ec": "3.6.3.2",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Magnesium"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Magnesium",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 77,
+  "qrfp_filt": null,
+  "qrfp_kept": 10
+ },
+ {
+  "id": "NOVBCNtex",
+  "name": "Novobiocin transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Novobiocin"
+  ],
+  "products": [
+   "Novobiocin"
+  ],
+  "drfp_filt": 50,
+  "drfp_kept": 10,
+  "qrfp_filt": 71,
+  "qrfp_kept": 71
+ },
+ {
+  "id": "GLYC2Pabcpp",
+  "name": "Sn-Glycerol 2-phosphate transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Glycerol 2-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Glycerol 2-phosphate",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 19,
+  "qrfp_filt": 12,
+  "qrfp_kept": 28
+ },
+ {
+  "id": "ASPO3",
+  "name": "L-aspartate oxidase",
+  "ec": "N/A",
+  "reactants": [
+   "L-Aspartate",
+   "Ubiquinone-8"
+  ],
+  "products": [
+   "H+",
+   "Iminoaspartate",
+   "Ubiquinol-8"
+  ],
+  "drfp_filt": 17,
+  "drfp_kept": 13,
+  "qrfp_filt": 18,
+  "qrfp_kept": 15
+ },
+ {
+  "id": "GUAtpp",
+  "name": "Guanine transport via diffusion (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Guanine"
+  ],
+  "products": [
+   "Guanine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 16,
+  "qrfp_kept": 13
+ },
+ {
+  "id": "OROTt2_2pp",
+  "name": "Orotate transport via proton symport (2 H) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Orotate C5H3N2O4"
+  ],
+  "products": [
+   "H+",
+   "Orotate C5H3N2O4"
+  ],
+  "drfp_filt": 13,
+  "drfp_kept": 83,
+  "qrfp_filt": null,
+  "qrfp_kept": 80
+ },
+ {
+  "id": "ADEt2rpp",
+  "name": "Adenine transport via proton symport (reversible) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Adenine",
+   "H+"
+  ],
+  "products": [
+   "Adenine",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 16,
+  "qrfp_kept": 14
+ },
+ {
+  "id": "AGM4PCP",
+  "name": "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide",
+   "H2O H2O"
+  ],
+  "products": [
+   "D-Alanine",
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide"
+  ],
+  "drfp_filt": 17,
+  "drfp_kept": 14,
+  "qrfp_filt": 34,
+  "qrfp_kept": 32
+ },
+ {
+  "id": "AM4PCP",
+  "name": "Anhydrous-N-Acetylmuramyl-tetrapeptide L,D-carboxypeptidase",
+  "ec": "N/A",
+  "reactants": [
+   "1,6-anhydrous-N-Acetylmuramyl-tetrapeptide",
+   "H2O H2O"
+  ],
+  "products": [
+   "D-Alanine",
+   "1,6-anhydrous-N-Acetylmuramyl-tripeptide"
+  ],
+  "drfp_filt": 17,
+  "drfp_kept": 14,
+  "qrfp_filt": 34,
+  "qrfp_kept": 32
+ },
+ {
+  "id": "IMPC",
+  "name": "IMP cyclohydrolase",
+  "ec": "2.1.2.3; 3.5.4.10",
+  "reactants": [
+   "H2O H2O",
+   "IMP C10H11N4O8P"
+  ],
+  "products": [
+   "5-Formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide"
+  ],
+  "drfp_filt": 14,
+  "drfp_kept": 21,
+  "qrfp_filt": 21,
+  "qrfp_kept": 25
+ },
+ {
+  "id": "PSERT",
+  "name": "Phosphoserine transaminase",
+  "ec": "2.6.1.52",
+  "reactants": [
+   "3-Phosphohydroxypyruvate",
+   "L-Glutamate"
+  ],
+  "products": [
+   "2-Oxoglutarate",
+   "O-Phospho-L-serine"
+  ],
+  "drfp_filt": 29,
+  "drfp_kept": 24,
+  "qrfp_filt": 16,
+  "qrfp_kept": 14
+ },
+ {
+  "id": "GALabcpp",
+  "name": "D-galactose transport via ABC system (periplasm)",
+  "ec": "3.6.3.17",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Galactose",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "D-Galactose",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 15,
+  "qrfp_filt": null,
+  "qrfp_kept": 52
+ },
+ {
+  "id": "ALCD2x",
+  "name": "Alcohol dehydrogenase (ethanol)",
+  "ec": "1.1.1.71; 1.1.1.1",
+  "reactants": [
+   "Ethanol",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "Acetaldehyde",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": 20,
+  "drfp_kept": 41,
+  "qrfp_filt": 60,
+  "qrfp_kept": 16
+ },
+ {
+  "id": "GLCt2pp",
+  "name": "D-glucose transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Glucose",
+   "H+"
+  ],
+  "products": [
+   "D-Glucose",
+   "H+"
+  ],
+  "drfp_filt": 16,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": 95
+ },
+ {
+  "id": "FE2t2pp",
+  "name": "Iron (II) transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Fe2+ mitochondria",
+   "H+"
+  ],
+  "products": [
+   "Fe2+ mitochondria",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": 17
+ },
+ {
+  "id": "NTRIR3pp",
+  "name": "Nitrite Reductase (Ubiquinole-8, periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Nitrite",
+   "Ubiquinol-8"
+  ],
+  "products": [
+   "H2O H2O",
+   "Ammonium",
+   "Ubiquinone-8"
+  ],
+  "drfp_filt": 19,
+  "drfp_kept": 19,
+  "qrfp_filt": 20,
+  "qrfp_kept": 19
+ },
+ {
+  "id": "DSBAO1",
+  "name": "DsbA protein reoxidation reaction (aerobic)",
+  "ec": "N/A",
+  "reactants": [
+   "Periplasmic protein disulfide isomerase I (reduced)",
+   "Ubiquinone-8"
+  ],
+  "products": [
+   "Periplasmic protein disulfide isomerase I (oxidized)",
+   "Ubiquinol-8"
+  ],
+  "drfp_filt": 25,
+  "drfp_kept": 22,
+  "qrfp_filt": 26,
+  "qrfp_kept": 21
+ },
+ {
+  "id": "GAPP",
+  "name": "Glyceraldehyde-3-phosphate phosphatase",
+  "ec": "N/A",
+  "reactants": [
+   "Glyceraldehyde 3-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "D-Glyceraldehyde",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 69,
+  "qrfp_filt": null,
+  "qrfp_kept": 21
+ },
+ {
+  "id": "ASPtpp",
+  "name": "L-aspartate uptake via facillitated diffusion",
+  "ec": "N/A",
+  "reactants": [
+   "L-Aspartate"
+  ],
+  "products": [
+   "L-Aspartate"
+  ],
+  "drfp_filt": 22,
+  "drfp_kept": 28,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SUCCt1pp",
+  "name": "Succinate transport via diffusion in (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Succinate"
+  ],
+  "products": [
+   "Succinate"
+  ],
+  "drfp_filt": 22,
+  "drfp_kept": 28,
+  "qrfp_filt": 44,
+  "qrfp_kept": 39
+ },
+ {
+  "id": "AGM3Pt2pp",
+  "name": "GlcNAc-anhMurNAc tripeptide transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide",
+   "H+"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tripeptide",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 27,
+  "qrfp_kept": 26
+ },
+ {
+  "id": "AGM4Pt2pp",
+  "name": "GlcNAc-anhMurNAc tetrapeptide transport in via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide",
+   "H+"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl-tetrapeptide",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 26,
+  "qrfp_kept": 26
+ },
+ {
+  "id": "PFK",
+  "name": "Phosphofructokinase",
+  "ec": "2.7.1.11",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Fructose 6-phosphate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "D-Fructose 1,6-bisphosphate",
+   "H+"
+  ],
+  "drfp_filt": 70,
+  "drfp_kept": null,
+  "qrfp_filt": 29,
+  "qrfp_kept": 52
+ },
+ {
+  "id": "PAPA160",
+  "name": "Phosphatidate phosphatase (n-C16:0)",
+  "ec": "3.1.3.4",
+  "reactants": [
+   "H2O H2O",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 46,
+  "qrfp_kept": 30
+ },
+ {
+  "id": "PAPA160pp",
+  "name": "Phosphatidate phosphatase (periplasmic, n-C16:0)",
+  "ec": "3.1.3.4",
+  "reactants": [
+   "H2O H2O",
+   "1,2-dihexadecanoyl-sn-glycerol 3-phosphate"
+  ],
+  "products": [
+   "1,2-Diacyl-sn-glycerol (dihexadecanoyl, n-C16:0)",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 46,
+  "qrfp_kept": 30
+ },
+ {
+  "id": "RIBabcpp",
+  "name": "D-ribose transport via ABC system (periplasm)",
+  "ec": "3.6.3.17",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "D-Ribose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "D-Ribose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 30,
+  "qrfp_filt": 36,
+  "qrfp_kept": 31
+ },
+ {
+  "id": "HISabcpp",
+  "name": "L-histidine transport via ABC system (periplasm)",
+  "ec": "3.6.3.21",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "L-Histidine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "L-Histidine",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 31,
+  "qrfp_filt": null,
+  "qrfp_kept": 46
+ },
+ {
+  "id": "ASPK",
+  "name": "Aspartate kinase",
+  "ec": "2.7.2.4",
+  "reactants": [
+   "L-Aspartate",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "4-Phospho-L-aspartate",
+   "ADP C10H12N5O10P2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 33,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GCALDD",
+  "name": "Glycolaldehyde dehydrogenase",
+  "ec": "1.2.1.21",
+  "reactants": [
+   "Glycolaldehyde",
+   "H2O H2O",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "Glycolate C2H3O3",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": 40,
+  "qrfp_filt": null,
+  "qrfp_kept": 33
+ },
+ {
+  "id": "MCPST",
+  "name": "3-mercaptopyruvate sulfurtransferase",
+  "ec": "2.8.1.2",
+  "reactants": [
+   "Hydrogen cyanide",
+   "Mercaptopyruvate"
+  ],
+  "products": [
+   "H+",
+   "Pyruvate",
+   "Thiocyanate"
+  ],
+  "drfp_filt": 84,
+  "drfp_kept": 38,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "4HTHRK",
+  "name": "4-Hydroxy-L-threonine kinase",
+  "ec": "2.7.1",
+  "reactants": [
+   "4-Hydroxy-L-threonine",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "O-Phospho-4-hydroxy-L-threonine"
+  ],
+  "drfp_filt": 42,
+  "drfp_kept": 45,
+  "qrfp_filt": 95,
+  "qrfp_kept": 58
+ },
+ {
+  "id": "GLCtex_copy1",
+  "name": "Glucose transport via diffusion (extracellular to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "D-Glucose"
+  ],
+  "products": [
+   "D-Glucose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 43,
+  "qrfp_kept": 42
+ },
+ {
+  "id": "LCTSt3ipp",
+  "name": "Lactose transport via proton aniport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Lactose C12H22O11"
+  ],
+  "products": [
+   "H+",
+   "Lactose C12H22O11"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": 90,
+  "qrfp_kept": 64
+ },
+ {
+  "id": "MN2tpp",
+  "name": "Manganese transport in via permease (no H+)",
+  "ec": "N/A",
+  "reactants": [
+   "Manganese"
+  ],
+  "products": [
+   "Manganese"
+  ],
+  "drfp_filt": 69,
+  "drfp_kept": 68,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "14GLUCANtexi",
+  "name": "1,4-alpha-D-glucan transport via diffusion (extracellular to periplasm) irreversible",
+  "ec": "2.4.1.161",
+  "reactants": [
+   "1,4-alpha-D-glucan"
+  ],
+  "products": [
+   "1,4-alpha-D-glucan"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "3KGK",
+  "name": "3-keto-L-gulonate kinase",
+  "ec": "2.7.1.53",
+  "reactants": [
+   "3-Dehydro-L-gulonate",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "3-keto-L-gulonate-6-phosphate",
+   "ADP C10H12N5O10P2",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "4ABZGLUH",
+  "name": "P-aminobenzoyl-glutamate hydrolase",
+  "ec": "N/A",
+  "reactants": [
+   "4-aminobenzoyl-glutamate",
+   "H2O H2O"
+  ],
+  "products": [
+   "4-Aminobenzoate",
+   "L-Glutamate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AADDGT",
+  "name": "DTDP-N-4-acetamido-4,6-dideoxy-D-galactose transferase",
+  "ec": "2.4.1.325",
+  "reactants": [
+   "DTDP-4-acetamido-4,6-dideoxy-D-galactose",
+   "Undecaprenyl-diphospho-N-acetylglucosamine-N-acetylmannosaminuronate"
+  ],
+  "products": [
+   "DTDP C10H13N2O11P2",
+   "H+",
+   "Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ACGS",
+  "name": "N-acetylglutamate synthase",
+  "ec": "2.3.1.1",
+  "reactants": [
+   "Acetyl-CoA",
+   "L-Glutamate"
+  ],
+  "products": [
+   "N-Acetyl-L-glutamate",
+   "Coenzyme A",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ACNML",
+  "name": "N-Acetylneuraminate lyase",
+  "ec": "4.1.3.3",
+  "reactants": [
+   "N-Acetylneuraminate"
+  ],
+  "products": [
+   "N-Acetyl-D-mannosamine",
+   "Pyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ACPS1",
+  "name": "Acyl-carrier protein synthase",
+  "ec": "2.7.8.7",
+  "reactants": [
+   "Apoprotein [acyl carrier protein]",
+   "Coenzyme A"
+  ],
+  "products": [
+   "Acyl carrier protein",
+   "H+",
+   "Adenosine 3',5'-bisphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ACt4pp",
+  "name": "Na+/Acetate symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Acetate",
+   "Sodium"
+  ],
+  "products": [
+   "Acetate",
+   "Sodium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ADMDC",
+  "name": "Adenosylmethionine decarboxylase",
+  "ec": "4.1.1.50",
+  "reactants": [
+   "S-Adenosyl-L-methionine",
+   "H+"
+  ],
+  "products": [
+   "S-Adenosylmethioninamine",
+   "CO2 CO2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ADNCYC",
+  "name": "Adenylate cyclase",
+  "ec": "4.6.1.1",
+  "reactants": [
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "CAMP C10H11N5O6P",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ADSK",
+  "name": "Adenylyl-sulfate kinase",
+  "ec": "2.7.1.25",
+  "reactants": [
+   "Adenosine 5'-phosphosulfate",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "3'-Phosphoadenylyl sulfate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ADSS",
+  "name": "Adenylosuccinate synthase",
+  "ec": "6.3.4.4",
+  "reactants": [
+   "L-Aspartate",
+   "GTP C10H12N5O14P3",
+   "IMP C10H11N4O8P"
+  ],
+  "products": [
+   "N6-(1,2-Dicarboxyethyl)-AMP",
+   "GDP C10H12N5O11P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AGDC",
+  "name": "N-acetylglucosamine-6-phosphate deacetylase",
+  "ec": "3.5.1.25",
+  "reactants": [
+   "N-Acetyl-D-glucosamine 6-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Acetate",
+   "D-Glucosamine 6-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AIRC2",
+  "name": "Phosphoribosylaminoimidazole carboxylase",
+  "ec": "6.3.4.18",
+  "reactants": [
+   "5-amino-1-(5-phospho-D-ribosyl)imidazole",
+   "ATP C10H12N5O13P3",
+   "Bicarbonate"
+  ],
+  "products": [
+   "5-phosphoribosyl-5-carboxyaminoimidazole",
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ALAR",
+  "name": "Alanine racemase",
+  "ec": "5.1.1.1",
+  "reactants": [
+   "L-Alanine"
+  ],
+  "products": [
+   "D-Alanine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ALLTN",
+  "name": "Allantoinase",
+  "ec": "3.5.2.5",
+  "reactants": [
+   "Allantoin",
+   "H2O H2O"
+  ],
+  "products": [
+   "Allantoate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ALTRH",
+  "name": "Altronate hydrolase",
+  "ec": "4.2.1.7",
+  "reactants": [
+   "D-Altronate"
+  ],
+  "products": [
+   "2-Dehydro-3-deoxy-D-gluconate",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AMPN",
+  "name": "AMP nucleosidase",
+  "ec": "3.2.2.4",
+  "reactants": [
+   "AMP C10H12N5O7P",
+   "H2O H2O"
+  ],
+  "products": [
+   "Adenine",
+   "Alpha-D-Ribose 5-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ARGAGMt7pp",
+  "name": "Arginine/agmatine antiport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Agmatine",
+   "L-Arginine"
+  ],
+  "products": [
+   "Agmatine",
+   "L-Arginine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ARGSS",
+  "name": "Argininosuccinate synthase",
+  "ec": "6.3.4.5",
+  "reactants": [
+   "L-Aspartate",
+   "ATP C10H12N5O13P3",
+   "L-Citrulline"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "N(omega)-(L-Arginino)succinate",
+   "H+",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ARGt3pp",
+  "name": "L-arginine transport out via proton antiport (cytoplasm to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Arginine",
+   "H+"
+  ],
+  "products": [
+   "L-Arginine",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ARMEPNS",
+  "name": "?-D-ribose 1-methylphosphonate 5-triphosphate synthase",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Methylphosphonic acid"
+  ],
+  "products": [
+   "Adenine",
+   "?-D-ribose-1-methylphosphonate-5-triphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ASAD",
+  "name": "Aspartate-semialdehyde dehydrogenase",
+  "ec": "1.2.1.11",
+  "reactants": [
+   "L-Aspartate 4-semialdehyde",
+   "Nicotinamide adenine dinucleotide phosphate",
+   "Phosphate"
+  ],
+  "products": [
+   "4-Phospho-L-aspartate",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "AST",
+  "name": "Arginine succinyltransferase",
+  "ec": "2.3.1.109",
+  "reactants": [
+   "L-Arginine",
+   "Succinyl-CoA"
+  ],
+  "products": [
+   "Coenzyme A",
+   "H+",
+   "N2-Succinyl-L-arginine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ATPPRT",
+  "name": "ATP phosphoribosyltransferase",
+  "ec": "2.4.2.17",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "5-Phospho-alpha-D-ribose 1-diphosphate"
+  ],
+  "products": [
+   "Diphosphate",
+   "1-(5-Phosphoribosyl)-ATP"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "BTS5",
+  "name": "Biotin synthase",
+  "ec": "N/A",
+  "reactants": [
+   "[2Fe-2S] iron-sulfur cluster",
+   "S-Adenosyl-L-methionine",
+   "Dethiobiotin"
+  ],
+  "products": [
+   "[2Fe-1S] desulfurated iron-sulfur cluster",
+   "Biotin",
+   "5'-Deoxyadenosine",
+   "H+",
+   "L-Methionine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "CDPMEK",
+  "name": "4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase",
+  "ec": "2.7.1.148",
+  "reactants": [
+   "4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol",
+   "ADP C10H12N5O10P2",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "CHORS",
+  "name": "Chorismate synthase",
+  "ec": "4.2.3.5",
+  "reactants": [
+   "5-O-(1-Carboxyvinyl)-3-phosphoshikimate"
+  ],
+  "products": [
+   "Chorismate",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "CLt3_2pp",
+  "name": "Chloride transport out via proton antiport (2:1) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Chloride",
+   "H+"
+  ],
+  "products": [
+   "Chloride",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "CU1Opp",
+  "name": "Cuprous Oxidase (Cu+1)",
+  "ec": "1.16.3",
+  "reactants": [
+   "Cu+",
+   "H+",
+   "O2 O2"
+  ],
+  "products": [
+   "Copper",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "CXSAMS",
+  "name": "Carboxy-S-adenosyl-L-methionine synthase",
+  "ec": "N/A",
+  "reactants": [
+   "S-Adenosyl-L-methionine",
+   "Prephenate"
+  ],
+  "products": [
+   "Carboxy-S-adenosyl-L-methionine",
+   "H2O H2O",
+   "Phenylpyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DAPAL",
+  "name": "2,3-diaminopropionate amonnia lyase",
+  "ec": "4.3.1.15",
+  "reactants": [
+   "2,3-diaminopropionate",
+   "H2O H2O"
+  ],
+  "products": [
+   "Ammonium",
+   "Pyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DAPDC",
+  "name": "Diaminopimelate decarboxylase",
+  "ec": "4.1.1.20",
+  "reactants": [
+   "Meso-2,6-Diaminoheptanedioate",
+   "H+"
+  ],
+  "products": [
+   "CO2 CO2",
+   "L-Lysine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DDGALK",
+  "name": "2-dehydro-3-deoxygalactonokinase",
+  "ec": "2.7.1.58; 2.7.1.178",
+  "reactants": [
+   "2-Dehydro-3-deoxy-D-galactonate",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "2-Dehydro-3-deoxy-D-galactonate 6-phosphate",
+   "ADP C10H12N5O10P2",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DHDPS",
+  "name": "Dihydrodipicolinate synthase",
+  "ec": "N/A",
+  "reactants": [
+   "L-Aspartate 4-semialdehyde",
+   "Pyruvate"
+  ],
+  "products": [
+   "2,3-Dihydrodipicolinate",
+   "H2O H2O",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DHNCOAS",
+  "name": "1,4-dihydroxy-2-napthoyl-CoA synthase",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "O-Succinylbenzoyl-CoA"
+  ],
+  "products": [
+   "1,4-dihydroxy-2-napthoyl-CoA",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DHORTS",
+  "name": "Dihydroorotase",
+  "ec": "3.5.2.3",
+  "reactants": [
+   "(S)-Dihydroorotate",
+   "H2O H2O"
+  ],
+  "products": [
+   "N-Carbamoyl-L-aspartate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DHQTi",
+  "name": "3-dehydroquinate dehydratase, irreversible",
+  "ec": "4.2.1.10",
+  "reactants": [
+   "3-Dehydroquinate"
+  ],
+  "products": [
+   "3-Dehydroshikimate",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DSBCGT",
+  "name": "DsbC:glutathione thiotransferase",
+  "ec": "N/A",
+  "reactants": [
+   "Protein disulfide isomerase II (oxidized)",
+   "Reduced glutathione"
+  ],
+  "products": [
+   "Protein disulfide isomerase II (reduced)",
+   "Oxidized glutathione"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DXYLK",
+  "name": "1-Deoxy-D-xylulose kinase",
+  "ec": "2.7.1",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "1-deoxy-D-xylulose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "1-deoxy-D-xylulose 5-phosphate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "DXYLTD",
+  "name": "D-xylonate dehydratase",
+  "ec": "N/A",
+  "reactants": [
+   "D-Xylonate"
+  ],
+  "products": [
+   "2-dehydro-3-deoxy-D-arabinonate",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ECAtpp",
+  "name": "Enterobacterial common antigen transferase (flippase, cytoplasm to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose"
+  ],
+  "products": [
+   "Undecaprenyl-diphospho N-acetylglucosamine-N-acetylmannosaminuronate-N-acetamido-4,6-dideoxy-D-galactose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ENO",
+  "name": "Enolase",
+  "ec": "4.2.1.11",
+  "reactants": [
+   "D-Glycerate 2-phosphate"
+  ],
+  "products": [
+   "H2O H2O",
+   "Phosphoenolpyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "F6PA",
+  "name": "Fructose 6-phosphate aldolase",
+  "ec": "4.1.2",
+  "reactants": [
+   "D-Fructose 6-phosphate"
+  ],
+  "products": [
+   "Dihydroxyacetone",
+   "Glyceraldehyde 3-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FALDH2",
+  "name": "Formaldehyde dehydrogenase",
+  "ec": "1.1.1.284; 1.1.1",
+  "reactants": [
+   "Hydroxymethylglutathione",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "S-Formylglutathione",
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FE2abcpp",
+  "name": "Iron (II) transport via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Fe2+ mitochondria",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Fe2+ mitochondria",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FEROpp",
+  "name": "Ferroxidase",
+  "ec": "1.16.3.1",
+  "reactants": [
+   "Fe2+ mitochondria",
+   "H+",
+   "O2 O2"
+  ],
+  "products": [
+   "Iron (Fe3+)",
+   "H2O H2O"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FESR",
+  "name": "Iron-sulfur cluster repair",
+  "ec": "N/A",
+  "reactants": [
+   "[3Fe-4S] damaged iron-sulfur cluster",
+   "Fe2+ mitochondria"
+  ],
+  "products": [
+   "[4Fe-4S] iron-sulfur cluster"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FORCT",
+  "name": "Formyl-CoA Transferase",
+  "ec": "2.8.3.16",
+  "reactants": [
+   "Formyl-CoA(4-)",
+   "Oxalate"
+  ],
+  "products": [
+   "Formate",
+   "Oxalyl-CoA"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "FUCtpp",
+  "name": "L-fucose transport via proton symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Fucose",
+   "H+"
+  ],
+  "products": [
+   "L-Fucose",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "G1PACT",
+  "name": "Glucosamine-1-phosphate N-acetyltransferase",
+  "ec": "2.3.1.4; 2.3.1.157",
+  "reactants": [
+   "Acetyl-CoA",
+   "D-Glucosamine 1-phosphate"
+  ],
+  "products": [
+   "N-Acetyl-D-glucosamine 1-phosphate",
+   "Coenzyme A",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "G1PTT",
+  "name": "Glucose-1-phosphate thymidylyltransferase",
+  "ec": "2.7.7.24",
+  "reactants": [
+   "DTTP C10H13N2O14P3",
+   "D-Glucose 1-phosphate",
+   "H+"
+  ],
+  "products": [
+   "DTDPglucose",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "G6PDA",
+  "name": "Glucosamine-6-phosphate deaminase",
+  "ec": "3.5.99.6",
+  "reactants": [
+   "D-Glucosamine 6-phosphate",
+   "H2O H2O"
+  ],
+  "products": [
+   "D-Fructose 6-phosphate",
+   "Ammonium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GALCTLO",
+  "name": "L-galactonate oxidoreductase",
+  "ec": "1.1.1.M8",
+  "reactants": [
+   "L-Galactonate",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced",
+   "D-Tagaturonate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GALKr",
+  "name": "Galactokinase",
+  "ec": "2.7.1.6",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Galactose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Alpha-D-Galactose 1-phosphate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GALM2pp",
+  "name": "Aldose-1-epimerase",
+  "ec": "5.1.3.3",
+  "reactants": [
+   "Beta D-Galactose"
+  ],
+  "products": [
+   "D-Galactose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GALS3",
+  "name": "A-galactosidase (melibiose)",
+  "ec": "3.2.1.22",
+  "reactants": [
+   "H2O H2O",
+   "Melibiose C12H22O11"
+  ],
+  "products": [
+   "D-Galactose",
+   "D-Glucose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GALUi",
+  "name": "UTP-glucose-1-phosphate uridylyltransferase (irreversible)",
+  "ec": "2.7.7.9; 2.7.7.64",
+  "reactants": [
+   "D-Glucose 1-phosphate",
+   "H+",
+   "UTP C9H11N2O15P3"
+  ],
+  "products": [
+   "Diphosphate",
+   "UDPglucose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GGPTRCO",
+  "name": "Gamma glutamyl putrescine oxidase",
+  "ec": "N/A",
+  "reactants": [
+   "Gamma-glutamyl-putrescine",
+   "H2O H2O",
+   "O2 O2"
+  ],
+  "products": [
+   "Gamma-glutamyl-gamma-butyraldehyde",
+   "Hydrogen peroxide",
+   "Ammonium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GGPTRCS",
+  "name": "Gamma glutamyl putrescine synthase",
+  "ec": "6.3.1.11",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "L-Glutamate",
+   "Putrescine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Gamma-glutamyl-putrescine",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GLUR",
+  "name": "Glutamate racemase",
+  "ec": "5.1.1.3",
+  "reactants": [
+   "D-Glutamate"
+  ],
+  "products": [
+   "L-Glutamate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GLUt4pp",
+  "name": "Na+/glutamate symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "L-Glutamate",
+   "Sodium"
+  ],
+  "products": [
+   "L-Glutamate",
+   "Sodium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GLYAT",
+  "name": "Glycine C-acetyltransferase",
+  "ec": "2.3.1.29; 2.3.1.37",
+  "reactants": [
+   "Acetyl-CoA",
+   "Glycine"
+  ],
+  "products": [
+   "L-2-Amino-3-oxobutanoate",
+   "Coenzyme A"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GLYC3Pt6pp",
+  "name": "Glycerol-3-phosphate : phosphate antiporter (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Glycerol 3-phosphate",
+   "Phosphate"
+  ],
+  "products": [
+   "Glycerol 3-phosphate",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GLYCLTt4pp",
+  "name": "Glycolate transport via sodium symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Glycolate C2H3O3",
+   "Sodium"
+  ],
+  "products": [
+   "Glycolate C2H3O3",
+   "Sodium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GMPR",
+  "name": "GMP reductase",
+  "ec": "1.7.1.7",
+  "reactants": [
+   "GMP C10H12N5O8P",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "IMP C10H11N4O8P",
+   "Nicotinamide adenine dinucleotide phosphate",
+   "Ammonium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GTHOr",
+  "name": "Glutathione oxidoreductase",
+  "ec": "1.8.1.7",
+  "reactants": [
+   "Oxidized glutathione",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "Reduced glutathione",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "GTHRDabcpp",
+  "name": "Reduced glutathione via ABC system (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Reduced glutathione",
+   "H2O H2O"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Reduced glutathione",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "HETZK",
+  "name": "Hydroxyethylthiazole kinase",
+  "ec": "2.7.1.50",
+  "reactants": [
+   "4-Methyl-5-(2-hydroxyethyl)-thiazole",
+   "ATP C10H12N5O13P3"
+  ],
+  "products": [
+   "4-Methyl-5-(2-phosphoethyl)-thiazole",
+   "ADP C10H12N5O10P2",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "HEX7",
+  "name": "Hexokinase (D-fructose:ATP)",
+  "ec": "2.7.1.1; 2.7.1.4",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Fructose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "D-Fructose 6-phosphate",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "HMBS",
+  "name": "Hydroxymethylbilane synthase",
+  "ec": "2.5.1.61; 4.3.1.8",
+  "reactants": [
+   "H2O H2O",
+   "Porphobilinogen"
+  ],
+  "products": [
+   "Hydroxymethylbilane",
+   "Ammonium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ICHORT",
+  "name": "Isochorismatase",
+  "ec": "3.3.2.1",
+  "reactants": [
+   "H2O H2O",
+   "Isochorismate"
+  ],
+  "products": [
+   "2,3-Dihydro-2,3-dihydroxybenzoate",
+   "Pyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "INOSTt4pp",
+  "name": "Na+/myo-inositol symporter (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Myo-Inositol",
+   "Sodium"
+  ],
+  "products": [
+   "Myo-Inositol",
+   "Sodium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "IPDDI",
+  "name": "Isopentenyl-diphosphate D-isomerase",
+  "ec": "5.3.3.2",
+  "reactants": [
+   "Isopentenyl diphosphate"
+  ],
+  "products": [
+   "Dimethylallyl diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "IPPS",
+  "name": "2-isopropylmalate synthase",
+  "ec": "2.3.3.13",
+  "reactants": [
+   "3-Methyl-2-oxobutanoate",
+   "Acetyl-CoA",
+   "H2O H2O"
+  ],
+  "products": [
+   "3-Carboxy-3-hydroxy-4-methylpentanoate",
+   "Coenzyme A",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "KDOCT2",
+  "name": "3-deoxy-manno-octulosonate cytidylyltransferase",
+  "ec": "2.7.7.38",
+  "reactants": [
+   "CTP C9H12N3O14P3",
+   "3-Deoxy-D-manno-2-octulosonate"
+  ],
+  "products": [
+   "CMP-3-deoxy-D-manno-octulosonate",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "KDOPP",
+  "name": "3-deoxy-manno-octulosonate-8-phosphatase",
+  "ec": "3.1.3.45",
+  "reactants": [
+   "H2O H2O",
+   "3-Deoxy-D-manno-octulosonate 8-phosphate"
+  ],
+  "products": [
+   "3-Deoxy-D-manno-2-octulosonate",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "Kabcpp",
+  "name": "Potassium ABC transporter (periplasm)",
+  "ec": "3.6.3.10; 3.6.3.12",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Potassium"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Potassium",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "LIPOCT",
+  "name": "Lipoyl(octanoyl) transferase",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Octanoyl-ACP (n-C8:0ACP)"
+  ],
+  "products": [
+   "Acyl carrier protein",
+   "Octanoate (protein bound)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "LIPOS",
+  "name": "Lipoate synthase",
+  "ec": "N/A",
+  "reactants": [
+   "[4Fe-4S] iron-sulfur cluster",
+   "S-Adenosyl-L-methionine",
+   "H+",
+   "Nicotinamide adenine dinucleotide",
+   "Octanoate (protein bound)"
+  ],
+  "products": [
+   "[2Fe-2S] iron-sulfur cluster",
+   "5'-Deoxyadenosine",
+   "Fe2+ mitochondria",
+   "Lipoate (protein bound)",
+   "L-Methionine",
+   "Nicotinamide adenine dinucleotide - reduced"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "LYSAM",
+  "name": "Lysine 2,3-aminomutase",
+  "ec": "5.4.3.2",
+  "reactants": [
+   "L-Lysine"
+  ],
+  "products": [
+   "(3S)-3,6-Diaminohexanoate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "LYSt3pp",
+  "name": "L-lysine transport out via proton antiport (cytoplasm to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "L-Lysine"
+  ],
+  "products": [
+   "H+",
+   "L-Lysine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "MAN6PI",
+  "name": "Mannose-6-phosphate isomerase",
+  "ec": "5.3.1.8",
+  "reactants": [
+   "D-Mannose 6-phosphate"
+  ],
+  "products": [
+   "D-Fructose 6-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ME2",
+  "name": "Malic enzyme (NADP)",
+  "ec": "1.1.1.40",
+  "reactants": [
+   "L-Malate",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "products": [
+   "CO2 CO2",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "Pyruvate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "MECDPS",
+  "name": "2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",
+  "ec": "4.6.1.12",
+  "reactants": [
+   "2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol"
+  ],
+  "products": [
+   "2-C-methyl-D-erythritol 2,4-cyclodiphosphate",
+   "CMP C9H12N3O8P"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "MEPNabcpp",
+  "name": "Methylpshophonic acid abc transporter",
+  "ec": "N/A",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Methylphosphonic acid"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Methylphosphonic acid",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "METGLCUR",
+  "name": "1-O-Methyl-Beta-D-glucuronidase",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "1-O-methyl-Beta-D-glucuronate"
+  ],
+  "products": [
+   "D-Glucuronate",
+   "Methanol"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "METS",
+  "name": "Methionine synthase",
+  "ec": "2.1.1.13",
+  "reactants": [
+   "5-Methyltetrahydrofolate",
+   "L-Homocysteine"
+  ],
+  "products": [
+   "H+",
+   "L-Methionine",
+   "5,6,7,8-Tetrahydrofolate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "MMCD",
+  "name": "Methylmalonyl-CoA decarboxylase",
+  "ec": "4.1.1.9; 4.1.1.41",
+  "reactants": [
+   "H+",
+   "(S)-Methylmalonyl-CoA"
+  ],
+  "products": [
+   "CO2 CO2",
+   "Propanoyl-CoA"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "MTRPOX",
+  "name": "N-methyltryptophan oxidase",
+  "ec": "1.5.3.2",
+  "reactants": [
+   "N-Methyltryptophan",
+   "H2O H2O",
+   "O2 O2"
+  ],
+  "products": [
+   "Formaldehyde",
+   "Hydrogen peroxide",
+   "L-Tryptophan"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "NAMNPP",
+  "name": "Nicotinic acid mononucleotide pyrophosphorylase",
+  "ec": "6.3.4.21",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Nicotinate",
+   "5-Phospho-alpha-D-ribose 1-diphosphate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Nicotinate D-ribonucleotide",
+   "Phosphate",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "NAt3_2pp",
+  "name": "Sodium proton antiporter (H:NA is 2) (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Sodium"
+  ],
+  "products": [
+   "H+",
+   "Sodium"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "NMNDA",
+  "name": "Nicotinamide-nucleotide amidase",
+  "ec": "3.5.1.42",
+  "reactants": [
+   "H2O H2O",
+   "NMN C11H14N2O8P"
+  ],
+  "products": [
+   "Ammonium",
+   "Nicotinate D-ribonucleotide"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "NNDMBRT",
+  "name": "Nicotinate-nucleotide dimethylbenzimidazole phosphoribosyltransferase",
+  "ec": "2.4.2.21",
+  "reactants": [
+   "5,6-Dimethylbenzimidazole",
+   "Nicotinate D-ribonucleotide"
+  ],
+  "products": [
+   "N1-(5-Phospho-alpha-D-ribosyl)-5,6-dimethylbenzimidazole",
+   "H+",
+   "Nicotinate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "O16GALFT",
+  "name": "Galactofuranosyltransferase (LPS O16 antigen biosynthesis)",
+  "ec": "N/A",
+  "reactants": [
+   "Glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate",
+   "UDP-D-galacto-1,4-furanose"
+  ],
+  "products": [
+   "Galactofuranosyl-glucosyl-O-acetyl-rhamanosyl-N-acetylglucosamyl-undecaprenyl diphosphate",
+   "H+",
+   "UDP C9H11N2O12P2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "OPHBDC",
+  "name": "Octaprenyl-hydroxybenzoate decarboxylase",
+  "ec": "4.1.1.98",
+  "reactants": [
+   "3-Octaprenyl-4-hydroxybenzoate",
+   "H+"
+  ],
+  "products": [
+   "2-Octaprenylphenol",
+   "CO2 CO2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "OXCDC",
+  "name": "Oxalyl-CoA decarboxylase",
+  "ec": "4.1.1.8",
+  "reactants": [
+   "H+",
+   "Oxalyl-CoA"
+  ],
+  "products": [
+   "CO2 CO2",
+   "Formyl-CoA(4-)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PACCOAL",
+  "name": "Phenylacetate-CoA ligase",
+  "ec": "6.2.1.30",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "Phenylacetic acid"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Phenylacetyl-CoA",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PANTS",
+  "name": "Pantothenate synthase",
+  "ec": "6.3.2.1",
+  "reactants": [
+   "Beta-Alanine",
+   "ATP C10H12N5O13P3",
+   "(R)-Pantoate"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "H+",
+   "(R)-Pantothenate",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PAPPT3",
+  "name": "Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)",
+  "ec": "2.7.8.13",
+  "reactants": [
+   "Undecaprenyl phosphate",
+   "UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine"
+  ],
+  "products": [
+   "Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PERD",
+  "name": "Erythronate 4-phosphate (4per) dehydrogenase",
+  "ec": "1.1.1.290",
+  "reactants": [
+   "4-Phospho-D-erythronate",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "products": [
+   "H+",
+   "Nicotinamide adenine dinucleotide - reduced",
+   "2-Oxo-3-hydroxy-4-phosphobutanoate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PGAMT",
+  "name": "Phosphoglucosamine mutase",
+  "ec": "5.4.2.10",
+  "reactants": [
+   "D-Glucosamine 1-phosphate"
+  ],
+  "products": [
+   "D-Glucosamine 6-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PIt2rpp",
+  "name": "Phosphate reversible transport via symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "H+",
+   "Phosphate"
+  ],
+  "products": [
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PIuabcpp",
+  "name": "Phosphate transport via ABC system (uptake, periplasm)",
+  "ec": "3.6.3.27",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Phosphate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PMEACPE",
+  "name": "Pimeloyl-[ACP] methyl ester esterase",
+  "ec": "3.1.1.85",
+  "reactants": [
+   "H2O H2O",
+   "Pimeloyl-[acyl-carrier protein] methyl ester"
+  ],
+  "products": [
+   "Methanol",
+   "Pimeloyl-[acyl-carrier protein]"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "POAACR",
+  "name": "Peroxyaminoacrylate reductase",
+  "ec": "N/A",
+  "reactants": [
+   "Nicotinamide adenine dinucleotide - reduced",
+   "Peroxyaminoacrylate"
+  ],
+  "products": [
+   "3-Aminoacrylate",
+   "H2O H2O",
+   "Nicotinamide adenine dinucleotide"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PPAt4pp",
+  "name": "Na+/Propionate symporter (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sodium",
+   "Propionate (n-C3:0)"
+  ],
+  "products": [
+   "Sodium",
+   "Propionate (n-C3:0)"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PPBNGS",
+  "name": "Porphobilinogen synthase",
+  "ec": "4.2.1.24",
+  "reactants": [
+   "5-Amino-4-oxopentanoate"
+  ],
+  "products": [
+   "H2O H2O",
+   "H+",
+   "Porphobilinogen"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PPC",
+  "name": "Phosphoenolpyruvate carboxylase",
+  "ec": "4.1.1.31",
+  "reactants": [
+   "CO2 CO2",
+   "H2O H2O",
+   "Phosphoenolpyruvate"
+  ],
+  "products": [
+   "H+",
+   "Oxaloacetate",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PPM2",
+  "name": "Phosphopentomutase 2 (deoxyribose)",
+  "ec": "5.4.2.7",
+  "reactants": [
+   "2-Deoxy-D-ribose 1-phosphate"
+  ],
+  "products": [
+   "2-Deoxy-D-ribose 5-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PRAIS",
+  "name": "Phosphoribosylaminoimidazole synthase",
+  "ec": "6.3.3.1",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "2-(Formamido)-N1-(5-phospho-D-ribosyl)acetamidine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "5-amino-1-(5-phospho-D-ribosyl)imidazole",
+   "H+",
+   "Phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PRCPD",
+  "name": "5-phospho-?-D-ribosyl 1,2-cyclic phosphate phosphodiesterase",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "5-phospho-?-D-ribose 1,2-cyclic phosphate"
+  ],
+  "products": [
+   "H+",
+   "D-Ribose 1,5-bisphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PTPATi",
+  "name": "Pantetheine-phosphate adenylyltransferase",
+  "ec": "2.7.7.3",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H+",
+   "Pantetheine 4'-phosphate"
+  ],
+  "products": [
+   "Dephospho-CoA",
+   "Diphosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "PTRCTA",
+  "name": "Putrescine Transaminase",
+  "ec": "2.6.1.29; 2.6.1.82",
+  "reactants": [
+   "2-Oxoglutarate",
+   "Putrescine"
+  ],
+  "products": [
+   "4-Aminobutanal",
+   "L-Glutamate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "RBK",
+  "name": "Ribokinase",
+  "ec": "2.7.1.15",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Ribose"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Alpha-D-Ribose 5-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "RHCCE",
+  "name": "S-ribosylhomocysteine cleavage enzyme",
+  "ec": "4.4.1.21",
+  "reactants": [
+   "S-Ribosyl-L-homocysteine"
+  ],
+  "products": [
+   "4,5-dihydroxy-2,3-pentanedione",
+   "L-Homocysteine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "S7PI",
+  "name": "Sedoheptulose 7-phosphate isomerase",
+  "ec": "5.3.1.28",
+  "reactants": [
+   "Sedoheptulose 7-phosphate"
+  ],
+  "products": [
+   "D-Glycero-D-manno-heptose 7-phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SERAT",
+  "name": "Serine O-acetyltransferase",
+  "ec": "2.3.1.30",
+  "reactants": [
+   "Acetyl-CoA",
+   "L-Serine"
+  ],
+  "products": [
+   "O-Acetyl-L-serine",
+   "Coenzyme A"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SERt4pp",
+  "name": "L-serine via sodium symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sodium",
+   "L-Serine"
+  ],
+  "products": [
+   "Sodium",
+   "L-Serine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SFGTHi",
+  "name": "S-Formylglutathione hydralase",
+  "ec": "3.1.2.12",
+  "reactants": [
+   "S-Formylglutathione",
+   "H2O H2O"
+  ],
+  "products": [
+   "Formate",
+   "Reduced glutathione",
+   "H+"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SUCBZL",
+  "name": "O-succinylbenzoate-CoA ligase",
+  "ec": "6.2.1.26",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "O-Succinylbenzoate"
+  ],
+  "products": [
+   "AMP C10H12N5O7P",
+   "Diphosphate",
+   "O-Succinylbenzoyl-CoA"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SUCDi",
+  "name": "Succinate dehydrogenase (irreversible)",
+  "ec": "N/A",
+  "reactants": [
+   "Ubiquinone-8",
+   "Succinate"
+  ],
+  "products": [
+   "Fumarate",
+   "Ubiquinol-8"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "SUCOAS",
+  "name": "Succinyl-CoA synthetase (ADP-forming)",
+  "ec": "6.2.1.5",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Coenzyme A",
+   "Succinate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "Phosphate",
+   "Succinyl-CoA"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "TAUDO",
+  "name": "Taurine dioxygenase",
+  "ec": "1.14.11.17",
+  "reactants": [
+   "2-Oxoglutarate",
+   "O2 O2",
+   "Taurine C2H7NO3S"
+  ],
+  "products": [
+   "Aminoacetaldehyde",
+   "CO2 CO2",
+   "H+",
+   "Sulfite",
+   "Succinate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "TDPDRR",
+  "name": "DTDP-4-dehydrorhamnose reductase",
+  "ec": "1.1.1.133",
+  "reactants": [
+   "DTDP-4-dehydro-6-deoxy-L-mannose",
+   "H+",
+   "Nicotinamide adenine dinucleotide phosphate - reduced"
+  ],
+  "products": [
+   "DTDP-L-rhamnose",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "THRS",
+  "name": "Threonine synthase",
+  "ec": "4.2.3.1",
+  "reactants": [
+   "H2O H2O",
+   "O-Phospho-L-homoserine"
+  ],
+  "products": [
+   "Phosphate",
+   "L-Threonine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "THRt4pp",
+  "name": "L-threonine  via sodium symport (periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Sodium",
+   "L-Threonine"
+  ],
+  "products": [
+   "Sodium",
+   "L-Threonine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "TMDS",
+  "name": "Thymidylate synthase",
+  "ec": "2.1.1.45",
+  "reactants": [
+   "DUMP C9H11N2O8P",
+   "5,10-Methylenetetrahydrofolate"
+  ],
+  "products": [
+   "7,8-Dihydrofolate",
+   "DTMP C10H13N2O8P"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "TMK",
+  "name": "Thiamine kinase",
+  "ec": "2.7.1.89",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "Thiamin"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Thiamin monophosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "TYRL",
+  "name": "Tyrosine lyase",
+  "ec": "4.1.99.19",
+  "reactants": [
+   "S-Adenosyl-L-methionine",
+   "Nicotinamide adenine dinucleotide phosphate - reduced",
+   "L-Tyrosine"
+  ],
+  "products": [
+   "P-Cresol",
+   "5'-Deoxyadenosine",
+   "Dehydroglycine",
+   "H+",
+   "L-Methionine",
+   "Nicotinamide adenine dinucleotide phosphate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UAGDP",
+  "name": "UDP-N-acetylglucosamine diphosphorylase",
+  "ec": "2.7.7.23",
+  "reactants": [
+   "N-Acetyl-D-glucosamine 1-phosphate",
+   "H+",
+   "UTP C9H11N2O15P3"
+  ],
+  "products": [
+   "Diphosphate",
+   "UDP-N-acetyl-D-glucosamine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UAGPT3",
+  "name": "UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase",
+  "ec": "2.4.1.227",
+  "reactants": [
+   "UDP-N-acetyl-D-glucosamine",
+   "Undecaprenyl-diphospho-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine"
+  ],
+  "products": [
+   "H+",
+   "Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala",
+   "UDP C9H11N2O12P2"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UAMAGS",
+  "name": "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase",
+  "ec": "6.3.2.9",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "D-Glutamate",
+   "UDP-N-acetylmuramoyl-L-alanine"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "UDP-N-acetylmuramoyl-L-alanyl-D-glutamate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UAMAS",
+  "name": "UDP-N-acetylmuramoyl-L-alanine synthetase",
+  "ec": "6.3.2.8",
+  "reactants": [
+   "L-Alanine",
+   "ATP C10H12N5O13P3",
+   "UDP-N-acetylmuramate"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "UDP-N-acetylmuramoyl-L-alanine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UDPG4E",
+  "name": "UDPglucose 4-epimerase",
+  "ec": "5.1.3.2",
+  "reactants": [
+   "UDPglucose"
+  ],
+  "products": [
+   "UDPgalactose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UDPGALM",
+  "name": "UDPgalactopyranose mutase",
+  "ec": "5.4.99.9",
+  "reactants": [
+   "UDPgalactose"
+  ],
+  "products": [
+   "UDP-D-galacto-1,4-furanose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UGCIAMH",
+  "name": "Ureidoglycine aminohydrolase",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "S-ureidoglycine"
+  ],
+  "products": [
+   "Ammonium",
+   "(-)-Ureidoglycolate"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UGLT",
+  "name": "UDPglucose--hexose-1-phosphate uridylyltransferase",
+  "ec": "2.7.7.12",
+  "reactants": [
+   "Alpha-D-Galactose 1-phosphate",
+   "UDPglucose"
+  ],
+  "products": [
+   "D-Glucose 1-phosphate",
+   "UDPgalactose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UHGADA",
+  "name": "UDP-3-O-acetylglucosamine deacetylase",
+  "ec": "3.5.1.108",
+  "reactants": [
+   "H2O H2O",
+   "UDP-3-O-(3-hydroxytetradecanoyl)-N-acetylglucosamine"
+  ],
+  "products": [
+   "Acetate",
+   "UDP-3-O-(3-hydroxytetradecanoyl)-D-glucosamine"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ULA4Ntppi",
+  "name": "Transport (cytoplasm to periplasm)",
+  "ec": "N/A",
+  "reactants": [
+   "Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose"
+  ],
+  "products": [
+   "Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UPLA4FNF",
+  "name": "Undecaprenyl phosphate-L-Ara4FN formylase",
+  "ec": "N/A",
+  "reactants": [
+   "H2O H2O",
+   "Undecaprenyl phosphate-4-amino-4-formyl-L-arabinose"
+  ],
+  "products": [
+   "Formate",
+   "Undecaprenyl phosphate-4-amino-4-deoxy-L-arabinose"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "UPP3S",
+  "name": "Uroporphyrinogen-III synthase",
+  "ec": "4.2.1.75",
+  "reactants": [
+   "Hydroxymethylbilane"
+  ],
+  "products": [
+   "H2O H2O",
+   "Uroporphyrinogen III"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "USHD",
+  "name": "UDP-sugar hydrolase",
+  "ec": "3.6.1.54",
+  "reactants": [
+   "H2O H2O",
+   "UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine"
+  ],
+  "products": [
+   "H+",
+   "2,3-Bis(3-hydroxytetradecanoyl)-beta-D-glucosaminyl 1-phosphate",
+   "UMP C9H11N2O9P"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ },
+ {
+  "id": "ZNabcpp",
+  "name": "Zinc (Zn+2) transport via ABC system (periplasm)",
+  "ec": "3.6.3.5",
+  "reactants": [
+   "ATP C10H12N5O13P3",
+   "H2O H2O",
+   "Zinc"
+  ],
+  "products": [
+   "ADP C10H12N5O10P2",
+   "H+",
+   "Phosphate",
+   "Zinc"
+  ],
+  "drfp_filt": null,
+  "drfp_kept": null,
+  "qrfp_filt": null,
+  "qrfp_kept": null
+ }
+]

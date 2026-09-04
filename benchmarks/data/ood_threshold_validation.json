@@ -1,0 +1,203 @@
+{
+  "threshold": 0.5,
+  "metric": "min_distance (nearest GEM neighbour, Tanimoto)",
+  "source": "mcsa_novelty_{gem}_qrfp.json details[] status=success",
+  "gems": {
+    "iML1515": {
+      "ec_match_l1": {
+        "level": "ec_match_l1",
+        "n_total": 579,
+        "bins": [
+          {
+            "lo": 0.0,
+            "hi": 0.3,
+            "n": 287,
+            "success_pct": 50.5
+          },
+          {
+            "lo": 0.3,
+            "hi": 0.4,
+            "n": 146,
+            "success_pct": 15.8
+          },
+          {
+            "lo": 0.4,
+            "hi": 0.5,
+            "n": 59,
+            "success_pct": 33.9
+          },
+          {
+            "lo": 0.5,
+            "hi": 0.6,
+            "n": 58,
+            "success_pct": 0.0
+          },
+          {
+            "lo": 0.6,
+            "hi": 0.7,
+            "n": 29,
+            "success_pct": 0.0
+          }
+        ],
+        "below_0.5": {
+          "n": 493,
+          "success_pct": 38.1,
+          "n_correct": 188
+        },
+        "above_0.5": {
+          "n": 86,
+          "success_pct": 0.0,
+          "n_correct": 0
+        },
+        "fisher_p": 1.006869138030565e-16
+      },
+      "ec_match_l3": {
+        "level": "ec_match_l3",
+        "n_total": 579,
+        "bins": [
+          {
+            "lo": 0.0,
+            "hi": 0.3,
+            "n": 287,
+            "success_pct": 38.7
+          },
+          {
+            "lo": 0.3,
+            "hi": 0.4,
+            "n": 146,
+            "success_pct": 2.1
+          },
+          {
+            "lo": 0.4,
+            "hi": 0.5,
+            "n": 59,
+            "success_pct": 30.5
+          },
+          {
+            "lo": 0.5,
+            "hi": 0.6,
+            "n": 58,
+            "success_pct": 0.0
+          },
+          {
+            "lo": 0.6,
+            "hi": 0.7,
+            "n": 29,
+            "success_pct": 0.0
+          }
+        ],
+        "below_0.5": {
+          "n": 493,
+          "success_pct": 26.8,
+          "n_correct": 132
+        },
+        "above_0.5": {
+          "n": 86,
+          "success_pct": 0.0,
+          "n_correct": 0
+        },
+        "fisher_p": 3.660641089271866e-11
+      }
+    },
+    "iJN746": {
+      "ec_match_l1": {
+        "level": "ec_match_l1",
+        "n_total": 525,
+        "bins": [
+          {
+            "lo": 0.0,
+            "hi": 0.3,
+            "n": 210,
+            "success_pct": 34.8
+          },
+          {
+            "lo": 0.3,
+            "hi": 0.4,
+            "n": 65,
+            "success_pct": 52.3
+          },
+          {
+            "lo": 0.4,
+            "hi": 0.5,
+            "n": 159,
+            "success_pct": 13.2
+          },
+          {
+            "lo": 0.5,
+            "hi": 0.6,
+            "n": 85,
+            "success_pct": 0.0
+          },
+          {
+            "lo": 0.7,
+            "hi": 1.01,
+            "n": 6,
+            "success_pct": 0.0
+          }
+        ],
+        "below_0.5": {
+          "n": 444,
+          "success_pct": 28.8,
+          "n_correct": 128
+        },
+        "above_0.5": {
+          "n": 81,
+          "success_pct": 0.0,
+          "n_correct": 0
+        },
+        "fisher_p": 2.1372950860993552e-11
+      },
+      "ec_match_l3": {
+        "level": "ec_match_l3",
+        "n_total": 525,
+        "bins": [
+          {
+            "lo": 0.0,
+            "hi": 0.3,
+            "n": 210,
+            "success_pct": 26.2
+          },
+          {
+            "lo": 0.3,
+            "hi": 0.4,
+            "n": 65,
+            "success_pct": 18.5
+          },
+          {
+            "lo": 0.4,
+            "hi": 0.5,
+            "n": 159,
+            "success_pct": 1.3
+          },
+          {
+            "lo": 0.5,
+            "hi": 0.6,
+            "n": 85,
+            "success_pct": 0.0
+          },
+          {
+            "lo": 0.7,
+            "hi": 1.01,
+            "n": 6,
+            "success_pct": 0.0
+          }
+        ],
+        "below_0.5": {
+          "n": 444,
+          "success_pct": 15.5,
+          "n_correct": 69
+        },
+        "above_0.5": {
+          "n": 81,
+          "success_pct": 0.0,
+          "n_correct": 0
+        },
+        "fisher_p": 7.1069460900403465e-06
+      }
+    }
+  },
+  "pooled_above_0.5_ec_l1": {
+    "n_correct": 0,
+    "n_total": 167
+  }
+}

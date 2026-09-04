@@ -1,0 +1,104 @@
+{
+  "benchmark": "Scaffold-split cross-validation (Bemis-Murcko)",
+  "config": {
+    "gem": "iML1515.xml",
+    "fp_type": "drfp",
+    "cofactors": "kept",
+    "n_folds": 5,
+    "seed": 42
+  },
+  "split_stats": {
+    "n_reactions": 2214,
+    "n_unique_scaffolds": 507,
+    "fold_sizes": [
+      443,
+      443,
+      443,
+      443,
+      442
+    ],
+    "fold_scaffold_counts": [
+      48,
+      115,
+      115,
+      115,
+      114
+    ]
+  },
+  "aggregate": {
+    "mrr_mean": 0.26404247038125267,
+    "mrr_std": 0.07849923651490276,
+    "top1_mean": 22.040795481241638,
+    "top1_std": 8.016651638070554,
+    "top10_mean": 37.357077924067696,
+    "top10_std": 9.594028039945131
+  },
+  "fold_results": [
+    {
+      "n_queries": 443,
+      "n_found": 98,
+      "n_missing": 345,
+      "mrr": 0.13902872822251586,
+      "top1": 11.963882618510159,
+      "top5": 17.607223476297968,
+      "top10": 19.187358916478555,
+      "fold": 1,
+      "n_train": 1771,
+      "n_test": 443,
+      "n_scaffold_clusters_in_fold": 48
+    },
+    {
+      "n_queries": 443,
+      "n_found": 198,
+      "n_missing": 245,
+      "mrr": 0.2561455806816912,
+      "top1": 19.63882618510158,
+      "top5": 35.214446952595935,
+      "top10": 36.56884875846501,
+      "fold": 2,
+      "n_train": 1771,
+      "n_test": 443,
+      "n_scaffold_clusters_in_fold": 115
+    },
+    {
+      "n_queries": 443,
+      "n_found": 248,
+      "n_missing": 195,
+      "mrr": 0.27387516609244955,
+      "top1": 21.670428893905193,
+      "top5": 27.765237020316025,
+      "top10": 43.566591422121896,
+      "fold": 3,
+      "n_train": 1771,
+      "n_test": 443,
+      "n_scaffold_clusters_in_fold": 115
+    },
+    {
+      "n_queries": 443,
+      "n_found": 239,
+      "n_missing": 204,
+      "mrr": 0.38661046017230705,
+      "top1": 36.56884875846501,
+      "top5": 39.954853273137694,
+      "top10": 41.534988713318285,
+      "fold": 4,
+      "n_train": 1771,
+      "n_test": 443,
+      "n_scaffold_clusters_in_fold": 115
+    },
+    {
+      "n_queries": 442,
+      "n_found": 254,
+      "n_missing": 188,
+      "mrr": 0.2645524167372998,
+      "top1": 20.361990950226243,
+      "top5": 27.828054298642535,
+      "top10": 45.92760180995475,
+      "fold": 5,
+      "n_train": 1772,
+      "n_test": 442,
+      "n_scaffold_clusters_in_fold": 114
+    }
+  ],
+  "elapsed_s": 46.7
+}

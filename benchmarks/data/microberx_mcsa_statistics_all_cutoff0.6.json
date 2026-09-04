@@ -1,0 +1,41 @@
+{
+  "system": "MicrobeRX",
+  "input": "Substrate SMILES only",
+  "query_set": "130 M-CSA queries (same as ChemGIME headline benchmark)",
+  "biosystem": "all",
+  "confidence_cutoff": 0.6,
+  "n_queries": 130,
+  "n_evaluable": 129,
+  "coverage_pct": 99.2,
+  "primary_ec_level": 3,
+  "mrr": 0.222,
+  "top1_pct": 15.4,
+  "top5_pct": 30.8,
+  "top10_pct": 37.7,
+  "all_levels": {
+    "L1": {
+      "mrr": 0.386,
+      "top1_pct": 28.5,
+      "top5_pct": 51.5,
+      "top10_pct": 57.7
+    },
+    "L2": {
+      "mrr": 0.284,
+      "top1_pct": 20.8,
+      "top5_pct": 38.5,
+      "top10_pct": 44.6
+    },
+    "L3": {
+      "mrr": 0.222,
+      "top1_pct": 15.4,
+      "top5_pct": 30.8,
+      "top10_pct": 37.7
+    },
+    "L4": {
+      "mrr": 0.161,
+      "top1_pct": 11.5,
+      "top5_pct": 20.0,
+      "top10_pct": 27.7
+    }
+  }
+}

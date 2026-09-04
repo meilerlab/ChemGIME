@@ -1,0 +1,1858 @@
+{
+  "n_queries": 223,
+  "n_with_target": 115,
+  "n_found_uniprot": 115,
+  "n_found_gpr_10k": 86,
+  "mrr_uniprot": 0.011568190092598048,
+  "top10": 2.242152466367713,
+  "top100": 12.10762331838565,
+  "top1000": 28.251121076233183,
+  "top10000": 38.56502242152467,
+  "median_rank_found": 813.0,
+  "median_query_time_ms": 0.05518272519111633,
+  "per_query": [
+    {
+      "reaction_id": "UPLA4FNF",
+      "true_gpr": "b2256",
+      "target_uniprots": [
+        "P76472"
+      ],
+      "found_at_rank_uniprot": 22685,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DIMPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACALDtpp",
+      "true_gpr": "s0001",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "THYMtex",
+      "true_gpr": "b0241 or b1377 or b2215 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TKT2",
+      "true_gpr": "b2935 or b2465",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "CRNtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "NAMNPP",
+      "true_gpr": "b0931",
+      "target_uniprots": [
+        "P18133"
+      ],
+      "found_at_rank_uniprot": 23425,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "CHLt2pp",
+      "true_gpr": "b0314 or b1801",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PAPA160",
+      "true_gpr": "b1278",
+      "target_uniprots": [
+        "P0A924"
+      ],
+      "found_at_rank_uniprot": 371,
+      "found_at_rank_gpr_10k": 371
+    },
+    {
+      "reaction_id": "CHORS",
+      "true_gpr": "b2329",
+      "target_uniprots": [
+        "P12008"
+      ],
+      "found_at_rank_uniprot": 150,
+      "found_at_rank_gpr_10k": 150
+    },
+    {
+      "reaction_id": "GLYCLTt4pp",
+      "true_gpr": "b4067",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LALADGLUtpp",
+      "true_gpr": "b0709 or b1634 or b3496 or b4130",
+      "target_uniprots": [
+        "P39276",
+        "P77304"
+      ],
+      "found_at_rank_uniprot": 88063,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "AM4PCP",
+      "true_gpr": "b1192",
+      "target_uniprots": [
+        "P76008"
+      ],
+      "found_at_rank_uniprot": 100,
+      "found_at_rank_gpr_10k": 100
+    },
+    {
+      "reaction_id": "LPLIPAL2ATE180",
+      "true_gpr": "b3825",
+      "target_uniprots": [
+        "P07000"
+      ],
+      "found_at_rank_uniprot": 53920,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLUt4pp",
+      "true_gpr": "b3653",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACACT7r",
+      "true_gpr": "b2342 or b3845",
+      "target_uniprots": [
+        "P21151",
+        "P76503"
+      ],
+      "found_at_rank_uniprot": 208,
+      "found_at_rank_gpr_10k": 208
+    },
+    {
+      "reaction_id": "MNtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DHAPT",
+      "true_gpr": "b1200 and b1198 and b2416 and b2415 and b1199",
+      "target_uniprots": [
+        "P08839",
+        "P37349",
+        "P76015",
+        "P76014"
+      ],
+      "found_at_rank_uniprot": 944,
+      "found_at_rank_gpr_10k": 944
+    },
+    {
+      "reaction_id": "IMPC",
+      "true_gpr": "b4006",
+      "target_uniprots": [
+        "P15639"
+      ],
+      "found_at_rank_uniprot": 147,
+      "found_at_rank_gpr_10k": 147
+    },
+    {
+      "reaction_id": "SKMtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACNML",
+      "true_gpr": "b3225",
+      "target_uniprots": [
+        "P0A6L4"
+      ],
+      "found_at_rank_uniprot": 6614,
+      "found_at_rank_gpr_10k": 6614
+    },
+    {
+      "reaction_id": "NO2t2rpp",
+      "true_gpr": "b1223 or b3367",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "NTD1pp",
+      "true_gpr": "b0480 or b4055",
+      "target_uniprots": [
+        "P07024",
+        "P0AE22"
+      ],
+      "found_at_rank_uniprot": 423,
+      "found_at_rank_gpr_10k": 423
+    },
+    {
+      "reaction_id": "ACACT2r",
+      "true_gpr": "b2342 or b3845",
+      "target_uniprots": [
+        "P21151",
+        "P76503"
+      ],
+      "found_at_rank_uniprot": 216,
+      "found_at_rank_gpr_10k": 216
+    },
+    {
+      "reaction_id": "ZN2t3pp",
+      "true_gpr": "b3915 or b0752",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ATPPRT",
+      "true_gpr": "b2019",
+      "target_uniprots": [
+        "P60757"
+      ],
+      "found_at_rank_uniprot": 130,
+      "found_at_rank_gpr_10k": 130
+    },
+    {
+      "reaction_id": "FUCtpp",
+      "true_gpr": "b2801",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PGPP160pp",
+      "true_gpr": "b0418 or b1278",
+      "target_uniprots": [
+        "P0A924",
+        "P18200"
+      ],
+      "found_at_rank_uniprot": 381,
+      "found_at_rank_gpr_10k": 381
+    },
+    {
+      "reaction_id": "SERAT",
+      "true_gpr": "b3607",
+      "target_uniprots": [
+        "P0A9D4"
+      ],
+      "found_at_rank_uniprot": 6,
+      "found_at_rank_gpr_10k": 6
+    },
+    {
+      "reaction_id": "GLYC3Ptex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "AGDC",
+      "true_gpr": "b0677",
+      "target_uniprots": [
+        "P0AF18"
+      ],
+      "found_at_rank_uniprot": 1,
+      "found_at_rank_gpr_10k": 1
+    },
+    {
+      "reaction_id": "MDDCP1pp",
+      "true_gpr": "b0632 or b3182 or b0839 or b2010 or b0376 or b2430",
+      "target_uniprots": [
+        "P0AEB2",
+        "P24228",
+        "P77619",
+        "P08506",
+        "P0AD70",
+        "P33013"
+      ],
+      "found_at_rank_uniprot": 90184,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "UDPG4E",
+      "true_gpr": "b0759",
+      "target_uniprots": [
+        "P09147"
+      ],
+      "found_at_rank_uniprot": 348,
+      "found_at_rank_gpr_10k": 348
+    },
+    {
+      "reaction_id": "G3PD6",
+      "true_gpr": "b2243 and b2242 and b2241",
+      "target_uniprots": [
+        "P13033",
+        "P0A9C0"
+      ],
+      "found_at_rank_uniprot": 18336,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLUR",
+      "true_gpr": "b3967",
+      "target_uniprots": [
+        "P22634"
+      ],
+      "found_at_rank_uniprot": 188921,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "XYLUt2pp",
+      "true_gpr": "b3577 and b3578 and b3579",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LCTSt3ipp",
+      "true_gpr": "b1528 or b2170 or b0070",
+      "target_uniprots": [
+        "P31122"
+      ],
+      "found_at_rank_uniprot": 130934,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PTRCTA",
+      "true_gpr": "b3073",
+      "target_uniprots": [
+        "P42588"
+      ],
+      "found_at_rank_uniprot": 38,
+      "found_at_rank_gpr_10k": 38
+    },
+    {
+      "reaction_id": "PGPP160",
+      "true_gpr": "b0418 or b1278",
+      "target_uniprots": [
+        "P0A924",
+        "P18200"
+      ],
+      "found_at_rank_uniprot": 381,
+      "found_at_rank_gpr_10k": 381
+    },
+    {
+      "reaction_id": "GALtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LPLIPAL2ATE120",
+      "true_gpr": "b3825",
+      "target_uniprots": [
+        "P07000"
+      ],
+      "found_at_rank_uniprot": 54385,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FE3tex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "AGM3Pt2pp",
+      "true_gpr": "b0433",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "H2Otex",
+      "true_gpr": "b3875 or s0001 or b1319 or b0957 or b2215 or b0241 or b1377 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FUMtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ME2",
+      "true_gpr": "b2463",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LALADGLUtex",
+      "true_gpr": "b2215 or b1377 or b0241 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SBTptspp",
+      "true_gpr": "b2416 and b2704 and b2703 and b2702 and b2415",
+      "target_uniprots": [
+        "P56580",
+        "P08839"
+      ],
+      "found_at_rank_uniprot": 8288,
+      "found_at_rank_gpr_10k": 8288
+    },
+    {
+      "reaction_id": "MN2tpp",
+      "true_gpr": "b3040",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "NTD2pp",
+      "true_gpr": "b4055 or b0480 or b0383",
+      "target_uniprots": [
+        "P00634",
+        "P07024",
+        "P0AE22"
+      ],
+      "found_at_rank_uniprot": 31,
+      "found_at_rank_gpr_10k": 31
+    },
+    {
+      "reaction_id": "ASPK",
+      "true_gpr": "b0002 or b3940 or b4024",
+      "target_uniprots": [
+        "P08660"
+      ],
+      "found_at_rank_uniprot": 1718,
+      "found_at_rank_gpr_10k": 1718
+    },
+    {
+      "reaction_id": "OHPBAT",
+      "true_gpr": "b0907",
+      "target_uniprots": [
+        "P23721"
+      ],
+      "found_at_rank_uniprot": 22,
+      "found_at_rank_gpr_10k": 22
+    },
+    {
+      "reaction_id": "PGAMT",
+      "true_gpr": "b3176",
+      "target_uniprots": [
+        "P31120"
+      ],
+      "found_at_rank_uniprot": 243,
+      "found_at_rank_gpr_10k": 243
+    },
+    {
+      "reaction_id": "3NTD9pp",
+      "true_gpr": "b4213 or b0383",
+      "target_uniprots": [
+        "P00634",
+        "P08331"
+      ],
+      "found_at_rank_uniprot": 548,
+      "found_at_rank_gpr_10k": 548
+    },
+    {
+      "reaction_id": "ULA4Ntppi",
+      "true_gpr": "b2258 and b4544",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GAPP",
+      "true_gpr": "b1727",
+      "target_uniprots": [
+        "P77247"
+      ],
+      "found_at_rank_uniprot": 748,
+      "found_at_rank_gpr_10k": 748
+    },
+    {
+      "reaction_id": "MAN6PI",
+      "true_gpr": "b1613",
+      "target_uniprots": [
+        "P00946"
+      ],
+      "found_at_rank_uniprot": 10662,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "CLt3_2pp",
+      "true_gpr": "b0155",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TARTRtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "THRt4pp",
+      "true_gpr": "b3089",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "UDPGALM",
+      "true_gpr": "b2036",
+      "target_uniprots": [
+        "P37747"
+      ],
+      "found_at_rank_uniprot": 44,
+      "found_at_rank_gpr_10k": 44
+    },
+    {
+      "reaction_id": "ADEt2rpp",
+      "true_gpr": "b3654 or b3714 or b3664",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACMANAtex",
+      "true_gpr": "b2215 or b0241 or b0929 or b1377",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "BALAtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ETOHtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TMDPP",
+      "true_gpr": "b4382",
+      "target_uniprots": [
+        "P07650"
+      ],
+      "found_at_rank_uniprot": 41,
+      "found_at_rank_gpr_10k": 41
+    },
+    {
+      "reaction_id": "GLCNt2rpp",
+      "true_gpr": "b4321 or b4476 or b3415 or b4265",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DHORD2",
+      "true_gpr": "b0945",
+      "target_uniprots": [
+        "P0A7E1"
+      ],
+      "found_at_rank_uniprot": 178,
+      "found_at_rank_gpr_10k": 178
+    },
+    {
+      "reaction_id": "CYTDH",
+      "true_gpr": "b2162 or b0651 or b0030",
+      "target_uniprots": [
+        "P33022",
+        "P22564",
+        "P41409"
+      ],
+      "found_at_rank_uniprot": 38783,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DGSNtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ADK4",
+      "true_gpr": "b0474",
+      "target_uniprots": [
+        "P69441"
+      ],
+      "found_at_rank_uniprot": 5299,
+      "found_at_rank_gpr_10k": 5299
+    },
+    {
+      "reaction_id": "AMPN",
+      "true_gpr": "b1982",
+      "target_uniprots": [
+        "P0AE12"
+      ],
+      "found_at_rank_uniprot": 2036,
+      "found_at_rank_gpr_10k": 2036
+    },
+    {
+      "reaction_id": "DSBAO1",
+      "true_gpr": "b1185 and b3860",
+      "target_uniprots": [
+        "P0A6M2",
+        "P0AEG4"
+      ],
+      "found_at_rank_uniprot": 33379,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ICHORT",
+      "true_gpr": "b0595",
+      "target_uniprots": [
+        "P0ADI4"
+      ],
+      "found_at_rank_uniprot": 10,
+      "found_at_rank_gpr_10k": 10
+    },
+    {
+      "reaction_id": "NTD5pp",
+      "true_gpr": "b4055 or b0480",
+      "target_uniprots": [
+        "P07024",
+        "P0AE22"
+      ],
+      "found_at_rank_uniprot": 644,
+      "found_at_rank_gpr_10k": 644
+    },
+    {
+      "reaction_id": "PUNP3",
+      "true_gpr": "b2407 or b4384",
+      "target_uniprots": [
+        "P0ABP8",
+        "P45563"
+      ],
+      "found_at_rank_uniprot": 21,
+      "found_at_rank_gpr_10k": 21
+    },
+    {
+      "reaction_id": "TDSR1",
+      "true_gpr": "b2893 and b4136",
+      "target_uniprots": [
+        "P36655",
+        "P0AEG6"
+      ],
+      "found_at_rank_uniprot": 45738,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PIt2rpp",
+      "true_gpr": "b3493 or b2987",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACGAtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MTRPOX",
+      "true_gpr": "b1059",
+      "target_uniprots": [
+        "P40874"
+      ],
+      "found_at_rank_uniprot": 66841,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ADSL2r",
+      "true_gpr": "b1131",
+      "target_uniprots": [
+        "P0AB89"
+      ],
+      "found_at_rank_uniprot": 324,
+      "found_at_rank_gpr_10k": 324
+    },
+    {
+      "reaction_id": "ACt4pp",
+      "true_gpr": "b4067",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLYC3Pt6pp",
+      "true_gpr": "b2240",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FEOXAMtonex",
+      "true_gpr": "b0150 and (b1252 and b3005 and b3006)",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "THRD_L",
+      "true_gpr": "b3772 or b3117",
+      "target_uniprots": [
+        "P0AGF6",
+        "P04968"
+      ],
+      "found_at_rank_uniprot": 14,
+      "found_at_rank_gpr_10k": 14
+    },
+    {
+      "reaction_id": "PUNP5",
+      "true_gpr": "b2407 or b4384",
+      "target_uniprots": [
+        "P0ABP8",
+        "P45563"
+      ],
+      "found_at_rank_uniprot": 25,
+      "found_at_rank_gpr_10k": 25
+    },
+    {
+      "reaction_id": "PPND",
+      "true_gpr": "b2600",
+      "target_uniprots": [
+        "P07023"
+      ],
+      "found_at_rank_uniprot": 5387,
+      "found_at_rank_gpr_10k": 5387
+    },
+    {
+      "reaction_id": "PGPP180pp",
+      "true_gpr": "b0418 or b1278",
+      "target_uniprots": [
+        "P0A924",
+        "P18200"
+      ],
+      "found_at_rank_uniprot": 381,
+      "found_at_rank_gpr_10k": 381
+    },
+    {
+      "reaction_id": "PAPA161pp",
+      "true_gpr": "b1278",
+      "target_uniprots": [
+        "P0A924"
+      ],
+      "found_at_rank_uniprot": 414,
+      "found_at_rank_gpr_10k": 414
+    },
+    {
+      "reaction_id": "TYRtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "23CUMPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GSPMDA",
+      "true_gpr": "b2988",
+      "target_uniprots": [
+        "P0AES0"
+      ],
+      "found_at_rank_uniprot": 4,
+      "found_at_rank_gpr_10k": 4
+    },
+    {
+      "reaction_id": "PUNP6",
+      "true_gpr": "b4384 or b2407",
+      "target_uniprots": [
+        "P0ABP8",
+        "P45563"
+      ],
+      "found_at_rank_uniprot": 26,
+      "found_at_rank_gpr_10k": 26
+    },
+    {
+      "reaction_id": "ARGt3pp",
+      "true_gpr": "b2923",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SERt4pp",
+      "true_gpr": "b3089",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PYRtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "THRS",
+      "true_gpr": "b0004",
+      "target_uniprots": [
+        "P00934"
+      ],
+      "found_at_rank_uniprot": 1101,
+      "found_at_rank_gpr_10k": 1101
+    },
+    {
+      "reaction_id": "PSERT",
+      "true_gpr": "b0907",
+      "target_uniprots": [
+        "P23721"
+      ],
+      "found_at_rank_uniprot": 16,
+      "found_at_rank_gpr_10k": 16
+    },
+    {
+      "reaction_id": "KDOCT2",
+      "true_gpr": "b0918",
+      "target_uniprots": [
+        "P04951"
+      ],
+      "found_at_rank_uniprot": 3580,
+      "found_at_rank_gpr_10k": 3580
+    },
+    {
+      "reaction_id": "2AGPE180tipp",
+      "true_gpr": "b2835",
+      "target_uniprots": [
+        "P39196"
+      ],
+      "found_at_rank_uniprot": 65374,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DTMPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ALTRH",
+      "true_gpr": "b3091",
+      "target_uniprots": [
+        "P42604"
+      ],
+      "found_at_rank_uniprot": 8293,
+      "found_at_rank_gpr_10k": 8293
+    },
+    {
+      "reaction_id": "HISt2rpp",
+      "true_gpr": "b0112",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MLDCP1Bpp",
+      "true_gpr": "b0925 or b1990 or b1113 or b1678 or b0819",
+      "target_uniprots": [
+        "P39176",
+        "P75954",
+        "P0AAX8",
+        "P22525",
+        "P76193"
+      ],
+      "found_at_rank_uniprot": 10846,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "4HOXPACDtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SUCCt1pp",
+      "true_gpr": "b1206",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "POAACR",
+      "true_gpr": "b1010",
+      "target_uniprots": [
+        "P0AFQ5"
+      ],
+      "found_at_rank_uniprot": 7502,
+      "found_at_rank_gpr_10k": 7502
+    },
+    {
+      "reaction_id": "GALS3",
+      "true_gpr": "b4119",
+      "target_uniprots": [
+        "P06720"
+      ],
+      "found_at_rank_uniprot": 3072,
+      "found_at_rank_gpr_10k": 3072
+    },
+    {
+      "reaction_id": "CBItonex",
+      "true_gpr": "(b1252 and b3005 and b3006) and b3966",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLYAT",
+      "true_gpr": "b3617",
+      "target_uniprots": [
+        "P0AB77"
+      ],
+      "found_at_rank_uniprot": 13,
+      "found_at_rank_gpr_10k": 13
+    },
+    {
+      "reaction_id": "AGM4PCP",
+      "true_gpr": "b1192",
+      "target_uniprots": [
+        "P76008"
+      ],
+      "found_at_rank_uniprot": 65,
+      "found_at_rank_gpr_10k": 65
+    },
+    {
+      "reaction_id": "TARTRDtex",
+      "true_gpr": "b1377 or b2215 or b0241 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MLTG1",
+      "true_gpr": "b0403",
+      "target_uniprots": [
+        "P21517"
+      ],
+      "found_at_rank_uniprot": 5522,
+      "found_at_rank_gpr_10k": 5522
+    },
+    {
+      "reaction_id": "GLCtex_copy1",
+      "true_gpr": "b4036",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GGPTRCO",
+      "true_gpr": "b1301",
+      "target_uniprots": [
+        "P37906"
+      ],
+      "found_at_rank_uniprot": 185098,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MECDPS",
+      "true_gpr": "b2746",
+      "target_uniprots": [
+        "P62617"
+      ],
+      "found_at_rank_uniprot": 2451,
+      "found_at_rank_gpr_10k": 2451
+    },
+    {
+      "reaction_id": "SO2tex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "IPDDI",
+      "true_gpr": "b2889",
+      "target_uniprots": [
+        "Q46822"
+      ],
+      "found_at_rank_uniprot": 99089,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DHQTi",
+      "true_gpr": "b1693",
+      "target_uniprots": [
+        "P05194"
+      ],
+      "found_at_rank_uniprot": 388,
+      "found_at_rank_gpr_10k": 388
+    },
+    {
+      "reaction_id": "34dhpactex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "3HAD60",
+      "true_gpr": "b0954 or b0180",
+      "target_uniprots": [
+        "P0A6Q6",
+        "P0A6Q3"
+      ],
+      "found_at_rank_uniprot": 313,
+      "found_at_rank_gpr_10k": 313
+    },
+    {
+      "reaction_id": "THRtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TRPtipp",
+      "true_gpr": "b1473",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ACt2rpp",
+      "true_gpr": "b0010",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "AGM3PA",
+      "true_gpr": "b0110",
+      "target_uniprots": [
+        "P13016"
+      ],
+      "found_at_rank_uniprot": 2112,
+      "found_at_rank_gpr_10k": 2112
+    },
+    {
+      "reaction_id": "UGLT",
+      "true_gpr": "b0758",
+      "target_uniprots": [
+        "P09148"
+      ],
+      "found_at_rank_uniprot": 95361,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GALM2pp",
+      "true_gpr": "b0756",
+      "target_uniprots": [
+        "P0A9C3"
+      ],
+      "found_at_rank_uniprot": 20292,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SUCDi",
+      "true_gpr": "b0721 and b0722 and b0723 and b0724",
+      "target_uniprots": [
+        "P0AC41",
+        "P07014"
+      ],
+      "found_at_rank_uniprot": 57,
+      "found_at_rank_gpr_10k": 57
+    },
+    {
+      "reaction_id": "PPM2",
+      "true_gpr": "b4383",
+      "target_uniprots": [
+        "P0A6K6"
+      ],
+      "found_at_rank_uniprot": 13123,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PPGPPDP",
+      "true_gpr": "b3650",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "HG2tex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLCt2pp",
+      "true_gpr": "b2943",
+      "target_uniprots": [
+        "P0AEP1"
+      ],
+      "found_at_rank_uniprot": 102348,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GTHRDtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ADOCBLtonex",
+      "true_gpr": "(b1252 and b3005 and b3006) and b3966",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "NAt3_2pp",
+      "true_gpr": "b0019",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ADNCYC",
+      "true_gpr": "b3806",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TMDS",
+      "true_gpr": "b2827",
+      "target_uniprots": [
+        "P0A884"
+      ],
+      "found_at_rank_uniprot": 13561,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "R5Ptex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "S7PI",
+      "true_gpr": "b0222",
+      "target_uniprots": [
+        "P63224"
+      ],
+      "found_at_rank_uniprot": 52,
+      "found_at_rank_gpr_10k": 52
+    },
+    {
+      "reaction_id": "FORCT",
+      "true_gpr": "b2374",
+      "target_uniprots": [
+        "P69902"
+      ],
+      "found_at_rank_uniprot": 39,
+      "found_at_rank_gpr_10k": 39
+    },
+    {
+      "reaction_id": "TYRPpp",
+      "true_gpr": "b4055",
+      "target_uniprots": [
+        "P0AE22"
+      ],
+      "found_at_rank_uniprot": 1514,
+      "found_at_rank_gpr_10k": 1514
+    },
+    {
+      "reaction_id": "ENO",
+      "true_gpr": "b2779",
+      "target_uniprots": [
+        "P0A6P9"
+      ],
+      "found_at_rank_uniprot": 49,
+      "found_at_rank_gpr_10k": 49
+    },
+    {
+      "reaction_id": "FACOAL181t2pp",
+      "true_gpr": "b1805 or b1701",
+      "target_uniprots": [
+        "P38135",
+        "P69451"
+      ],
+      "found_at_rank_uniprot": 832,
+      "found_at_rank_gpr_10k": 832
+    },
+    {
+      "reaction_id": "MNLtex",
+      "true_gpr": "b1377 or b2215 or b0241 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MLTG5",
+      "true_gpr": "b0403",
+      "target_uniprots": [
+        "P21517"
+      ],
+      "found_at_rank_uniprot": 6243,
+      "found_at_rank_gpr_10k": 6243
+    },
+    {
+      "reaction_id": "CU2tex",
+      "true_gpr": "b1377 or b2215 or b0241 or b0929",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PAPA140",
+      "true_gpr": "b1278",
+      "target_uniprots": [
+        "P0A924"
+      ],
+      "found_at_rank_uniprot": 316,
+      "found_at_rank_gpr_10k": 316
+    },
+    {
+      "reaction_id": "ECAtpp",
+      "true_gpr": "b3792",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "Ktex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MINCYCtpp",
+      "true_gpr": "(b0463 and b3035 and b2470) or (b0463 and b3035 and b0462)",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "HPPPNtex",
+      "true_gpr": "b0929 or b1377 or b2215 or b0241",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PAPPT3",
+      "true_gpr": "b0087",
+      "target_uniprots": [
+        "P0A6W3"
+      ],
+      "found_at_rank_uniprot": 311,
+      "found_at_rank_gpr_10k": 311
+    },
+    {
+      "reaction_id": "NMNDA",
+      "true_gpr": "b2700",
+      "target_uniprots": [
+        "P0A6G3"
+      ],
+      "found_at_rank_uniprot": 5,
+      "found_at_rank_gpr_10k": 5
+    },
+    {
+      "reaction_id": "ASPtpp",
+      "true_gpr": "b1206",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "METDtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "DUMPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SOTA",
+      "true_gpr": "b1748",
+      "target_uniprots": [
+        "P77581"
+      ],
+      "found_at_rank_uniprot": 87,
+      "found_at_rank_gpr_10k": 87
+    },
+    {
+      "reaction_id": "UPP3S",
+      "true_gpr": "b3804",
+      "target_uniprots": [
+        "P09126"
+      ],
+      "found_at_rank_uniprot": 177719,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SUCOAS",
+      "true_gpr": "b0729 and b0728",
+      "target_uniprots": [
+        "P0AGE9",
+        "P0A836"
+      ],
+      "found_at_rank_uniprot": 52,
+      "found_at_rank_gpr_10k": 52
+    },
+    {
+      "reaction_id": "HXPRT",
+      "true_gpr": "b0238 or b0125",
+      "target_uniprots": [
+        "P0A9M5",
+        "P0A9M2"
+      ],
+      "found_at_rank_uniprot": 14,
+      "found_at_rank_gpr_10k": 14
+    },
+    {
+      "reaction_id": "GUAtpp",
+      "true_gpr": "b4464 or b4064",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ILEt3pp",
+      "true_gpr": "b4141",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "VALt2rpp",
+      "true_gpr": "b0401",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PPK",
+      "true_gpr": "b2501",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FRUURtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ALATA_L2",
+      "true_gpr": "b0870 or b2551",
+      "target_uniprots": [
+        "P0A825",
+        "P75823"
+      ],
+      "found_at_rank_uniprot": 3504,
+      "found_at_rank_gpr_10k": 3504
+    },
+    {
+      "reaction_id": "OROTt2_2pp",
+      "true_gpr": "b3528",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ADNt2pp_copy1",
+      "true_gpr": "b2964 or b2393",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GUAt2pp",
+      "true_gpr": "b3654",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "F1PP",
+      "true_gpr": "b2690 or b2293 or b0822 or b3697",
+      "target_uniprots": [
+        "P0A8Y5",
+        "P77625",
+        "P75792",
+        "P77475"
+      ],
+      "found_at_rank_uniprot": 544,
+      "found_at_rank_gpr_10k": 544
+    },
+    {
+      "reaction_id": "MOBDtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "CYTK2",
+      "true_gpr": "b0910",
+      "target_uniprots": [
+        "P0A6I0"
+      ],
+      "found_at_rank_uniprot": 6051,
+      "found_at_rank_gpr_10k": 6051
+    },
+    {
+      "reaction_id": "GALCTNtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TRPS1",
+      "true_gpr": "b1260 and b1261",
+      "target_uniprots": [
+        "P0A879",
+        "P0A877"
+      ],
+      "found_at_rank_uniprot": 218,
+      "found_at_rank_gpr_10k": 218
+    },
+    {
+      "reaction_id": "ECOAH3",
+      "true_gpr": "b2341 or b3846",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PACCOAL",
+      "true_gpr": "b1398",
+      "target_uniprots": [
+        "P76085"
+      ],
+      "found_at_rank_uniprot": 113,
+      "found_at_rank_gpr_10k": 113
+    },
+    {
+      "reaction_id": "SO4tex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "2AGPE181tipp",
+      "true_gpr": "b2835",
+      "target_uniprots": [
+        "P39196"
+      ],
+      "found_at_rank_uniprot": 117067,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "METOX2s",
+      "true_gpr": "s0001",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FACOAL160t2pp",
+      "true_gpr": "b1701 or b1805",
+      "target_uniprots": [
+        "P38135",
+        "P69451"
+      ],
+      "found_at_rank_uniprot": 827,
+      "found_at_rank_gpr_10k": 827
+    },
+    {
+      "reaction_id": "UDPGtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "G3PItex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "UMPK",
+      "true_gpr": "b0910 or b0171",
+      "target_uniprots": [
+        "P0A7E9",
+        "P0A6I0"
+      ],
+      "found_at_rank_uniprot": 5543,
+      "found_at_rank_gpr_10k": 5543
+    },
+    {
+      "reaction_id": "FACOAL140t2pp",
+      "true_gpr": "b1701 or b1805",
+      "target_uniprots": [
+        "P38135",
+        "P69451"
+      ],
+      "found_at_rank_uniprot": 827,
+      "found_at_rank_gpr_10k": 827
+    },
+    {
+      "reaction_id": "G3PCtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LYSAM",
+      "true_gpr": "b4146",
+      "target_uniprots": [
+        "P39280"
+      ],
+      "found_at_rank_uniprot": 6182,
+      "found_at_rank_gpr_10k": 6182
+    },
+    {
+      "reaction_id": "THRPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "SUCBZL",
+      "true_gpr": "b2260",
+      "target_uniprots": [
+        "P37353"
+      ],
+      "found_at_rank_uniprot": 784,
+      "found_at_rank_gpr_10k": 784
+    },
+    {
+      "reaction_id": "AGM4Pt2pp",
+      "true_gpr": "b0433",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "4PCPpp",
+      "true_gpr": "b2175",
+      "target_uniprots": [
+        "P0AFV4"
+      ],
+      "found_at_rank_uniprot": 2468,
+      "found_at_rank_gpr_10k": 2468
+    },
+    {
+      "reaction_id": "GLCtex_copy2",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "5MTRtex",
+      "true_gpr": "b1377 or b0929 or b2215 or b0241",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "HXAtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "F6PA",
+      "true_gpr": "b0825 or b3946",
+      "target_uniprots": [
+        "P78055",
+        "P32669"
+      ],
+      "found_at_rank_uniprot": 236,
+      "found_at_rank_gpr_10k": 236
+    },
+    {
+      "reaction_id": "FACOAL120t2pp",
+      "true_gpr": "b1701 or b1805",
+      "target_uniprots": [
+        "P38135",
+        "P69451"
+      ],
+      "found_at_rank_uniprot": 824,
+      "found_at_rank_gpr_10k": 824
+    },
+    {
+      "reaction_id": "RNDR4b",
+      "true_gpr": "(b0849 and (b2675 and b2676)) or ((b2675 and b2676) and b3610) or ((b2675 and b2676) and b1654) or ((b2675 and b2676) and b1064)",
+      "target_uniprots": [
+        "P68688",
+        "P37146"
+      ],
+      "found_at_rank_uniprot": 700,
+      "found_at_rank_gpr_10k": 700
+    },
+    {
+      "reaction_id": "ASPt2_3pp",
+      "true_gpr": "b4138 or b4123",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "PAPA160pp",
+      "true_gpr": "b1278",
+      "target_uniprots": [
+        "P0A924"
+      ],
+      "found_at_rank_uniprot": 371,
+      "found_at_rank_gpr_10k": 371
+    },
+    {
+      "reaction_id": "PPAt4pp",
+      "true_gpr": "b1015",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "NOVBCNtex",
+      "true_gpr": "s0001",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "UHGADA",
+      "true_gpr": "b0096",
+      "target_uniprots": [
+        "P0A725"
+      ],
+      "found_at_rank_uniprot": 45,
+      "found_at_rank_gpr_10k": 45
+    },
+    {
+      "reaction_id": "KDOPP",
+      "true_gpr": "b3198",
+      "target_uniprots": [
+        "P0ABZ4"
+      ],
+      "found_at_rank_uniprot": 2637,
+      "found_at_rank_gpr_10k": 2637
+    },
+    {
+      "reaction_id": "CYStex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FE2t2pp",
+      "true_gpr": "b2392",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "TREtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "MLTP3",
+      "true_gpr": "b3417",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FACOAL100t2pp",
+      "true_gpr": "b1805 or b1701",
+      "target_uniprots": [
+        "P38135",
+        "P69451"
+      ],
+      "found_at_rank_uniprot": 813,
+      "found_at_rank_gpr_10k": 813
+    },
+    {
+      "reaction_id": "LPLIPAL2ATG140",
+      "true_gpr": "b3825",
+      "target_uniprots": [
+        "P07000"
+      ],
+      "found_at_rank_uniprot": 90579,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "2AGPG140tipp",
+      "true_gpr": "b2835",
+      "target_uniprots": [
+        "P39196"
+      ],
+      "found_at_rank_uniprot": 83188,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "INOSTt4pp",
+      "true_gpr": "b3679",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GAMtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "2AGPG181tipp",
+      "true_gpr": "b2835",
+      "target_uniprots": [
+        "P39196"
+      ],
+      "found_at_rank_uniprot": 134679,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ARGAGMt7pp",
+      "true_gpr": "b4115",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ALAR",
+      "true_gpr": "b1190 or b4053",
+      "target_uniprots": [
+        "P0A6B4",
+        "P29012"
+      ],
+      "found_at_rank_uniprot": 7507,
+      "found_at_rank_gpr_10k": 7507
+    },
+    {
+      "reaction_id": "14GLUCANtexi",
+      "true_gpr": "b4036",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "LYSt3pp",
+      "true_gpr": "b2923 or b0874",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "FORtppi",
+      "true_gpr": "b0904 or b2492",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "3GMPtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "G6PDA",
+      "true_gpr": "b0678",
+      "target_uniprots": [
+        "P0A759"
+      ],
+      "found_at_rank_uniprot": 46,
+      "found_at_rank_gpr_10k": 46
+    },
+    {
+      "reaction_id": "PGPP161pp",
+      "true_gpr": "b0418 or b1278",
+      "target_uniprots": [
+        "P0A924",
+        "P18200"
+      ],
+      "found_at_rank_uniprot": 452,
+      "found_at_rank_gpr_10k": 452
+    },
+    {
+      "reaction_id": "RHCCE",
+      "true_gpr": "b2687",
+      "target_uniprots": [
+        "P45578"
+      ],
+      "found_at_rank_uniprot": 63496,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "GLYALDtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    },
+    {
+      "reaction_id": "ETHAtex",
+      "true_gpr": "b0241 or b0929 or b1377 or b2215",
+      "target_uniprots": [],
+      "found_at_rank_uniprot": null,
+      "found_at_rank_gpr_10k": null
+    }
+  ]
+}

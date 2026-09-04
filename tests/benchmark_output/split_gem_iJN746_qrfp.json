@@ -1,0 +1,806 @@
+{
+  "summary": {
+    "n_queries": 157,
+    "n_found": 64,
+    "n_missing": 93,
+    "mrr": 0.25150774436426526,
+    "top1": 19.745222929936308,
+    "top5": 33.75796178343949,
+    "top10": 35.6687898089172,
+    "top50": 39.490445859872615,
+    "top100": 40.76433121019109,
+    "elapsed_s": 40.4,
+    "gem": "iJN746.xml",
+    "fp_type": "qrfp",
+    "cofactors_filtered": true,
+    "n_train": 626,
+    "n_test": 157
+  },
+  "details": [
+    {
+      "id": "UDCPDP",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CFAS160E",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "L_LACD2",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "UPPN",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "TRSARr",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "VNLNpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "RNDR4",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SHCHF",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGTRS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAS120",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PC20M",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "E4PD",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD11pp",
+      "rank": 5,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD6",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "PIuabcpp",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "HISTRS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "IPPMIb",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "AKGDa",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "PGSA161",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SO4t4_2",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "XAND",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PTAr",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CBPS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGDC",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "AGPAT120",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "AMPN",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "FCLT",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "NFORGLUAH",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CYO1b",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "TYRTRS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "SGDS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "HMSH2",
+      "rank": null,
+      "reason": "fp_failed"
+    },
+    {
+      "id": "PRAMPC",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "LYSabcpp",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "PGPP161pp",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "FORGLUIH",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PE180abcpp",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "THRabcpp",
+      "rank": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "DHQS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "TOLtex",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "EDA",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CAFFCOA",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD3pp",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "PPGPPDP",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "KAS15",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "NDPK5",
+      "rank": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "R15BPK",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DHDPRy",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUCYS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PGP161abcpp",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "DHAD2",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "3HAD181",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "EDD",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "HOPNTAL",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUDC",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "THRA2",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DPHAPC140",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "AGPR",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUSy",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DHNPA",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PGK",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PPBNGS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ETHSO3abcpp",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "IPMD",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "MTOLDOX",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "CHLabcpp",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "TRDR",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PACCOAL",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CYTK2",
+      "rank": 16,
+      "reason": "ok"
+    },
+    {
+      "id": "UAPGR",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PSD160",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "3_4DHBZt2",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PPND",
+      "rank": 97,
+      "reason": "ok"
+    },
+    {
+      "id": "FRUpts",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "TYRt2rpp",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "ACOAD5f",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "HACD4i",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "IMPC",
+      "rank": 12,
+      "reason": "ok"
+    },
+    {
+      "id": "CYSabcpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ILETA",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PYDXPP",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "FACOAL140t2pp",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SHSL4r",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SHSL1",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ASPabcpp",
+      "rank": 5,
+      "reason": "ok"
+    },
+    {
+      "id": "TAURabcpp",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "4HBHYOX",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GADktpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ACODA",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "RBFSb",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAS80",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "AKGt2rpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DASYN181",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PE160abcpp",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "IG3PS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "FOLD3",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PTOLDOX",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GART",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PC17M",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "3MBZDH",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "IPDPS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "BETALDHx",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD2pp",
+      "rank": 5,
+      "reason": "ok"
+    },
+    {
+      "id": "NTD4",
+      "rank": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "ADSS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ECOAH7",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PROtex",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "GUAPRT",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ICITt_kt",
+      "rank": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "AP4AH",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "IPPMIa",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ANPRT",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "TKT2",
+      "rank": 4,
+      "reason": "ok"
+    },
+    {
+      "id": "GLUtex",
+      "rank": 97,
+      "reason": "ok"
+    },
+    {
+      "id": "ACOAD6f",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "CDPMEK",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "SOTA",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "GTPCII",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "THRA",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "SER_AL",
+      "rank": 48,
+      "reason": "ok"
+    },
+    {
+      "id": "CFAS180E",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "ACt2rpp",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "G3PAT120",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "PRFGS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "MCITD",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "LPCOXc",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "THRTRS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "UPP3S",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PPS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "VANKpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DCTPD2",
+      "rank": 23,
+      "reason": "ok"
+    },
+    {
+      "id": "PDH",
+      "rank": 28,
+      "reason": "ok"
+    },
+    {
+      "id": "ADCYRS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PROt2rpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "NDPK8",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "DHORTS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DHFS",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "4HTHRS",
+      "rank": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "ADOCBIK",
+      "rank": 3,
+      "reason": "ok"
+    },
+    {
+      "id": "ADPT",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "MDH",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PGPP181",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "3OAR100",
+      "rank": null,
+      "reason": "empty_after_filter"
+    },
+    {
+      "id": "FDMO5",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "SULabcpp",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "UAGCVT",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "APRAUR",
+      "rank": 2,
+      "reason": "ok"
+    },
+    {
+      "id": "SUCD1",
+      "rank": 40,
+      "reason": "ok"
+    },
+    {
+      "id": "ACACT1r",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "CYO1_KT",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "DHQTi",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "FUMt2_2pp",
+      "rank": 7,
+      "reason": "ok"
+    },
+    {
+      "id": "T2DECAI",
+      "rank": 1,
+      "reason": "ok"
+    },
+    {
+      "id": "2DHGLCNkt_tpp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "ARGORNt7pp",
+      "rank": null,
+      "reason": "ok"
+    },
+    {
+      "id": "PPA",
+      "rank": null,
+      "reason": "empty_after_filter"
+    }
+  ]
+}

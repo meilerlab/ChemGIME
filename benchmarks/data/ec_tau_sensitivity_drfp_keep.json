@@ -1,0 +1,190 @@
+{
+  "gem": "iML1515.xml",
+  "fp_type": "drfp",
+  "cofactors": "keep",
+  "n_queries": 1018,
+  "n_db_reactions": 2149,
+  "alpha": 2,
+  "tau_sweep": [
+    {
+      "tau": 0.05,
+      "n_queries": 1018,
+      "n_correct": 250,
+      "n_no_voter": 693,
+      "n_wrong": 75,
+      "conditional_accuracy_pct": 76.92,
+      "unconditional_accuracy_pct": 24.56,
+      "coverage_pct": 31.93
+    },
+    {
+      "tau": 0.1,
+      "n_queries": 1018,
+      "n_correct": 258,
+      "n_no_voter": 673,
+      "n_wrong": 87,
+      "conditional_accuracy_pct": 74.78,
+      "unconditional_accuracy_pct": 25.34,
+      "coverage_pct": 33.89
+    },
+    {
+      "tau": 0.15,
+      "n_queries": 1018,
+      "n_correct": 273,
+      "n_no_voter": 649,
+      "n_wrong": 96,
+      "conditional_accuracy_pct": 73.98,
+      "unconditional_accuracy_pct": 26.82,
+      "coverage_pct": 36.25
+    },
+    {
+      "tau": 0.2,
+      "n_queries": 1018,
+      "n_correct": 289,
+      "n_no_voter": 626,
+      "n_wrong": 103,
+      "conditional_accuracy_pct": 73.72,
+      "unconditional_accuracy_pct": 28.39,
+      "coverage_pct": 38.51
+    },
+    {
+      "tau": 0.25,
+      "n_queries": 1018,
+      "n_correct": 312,
+      "n_no_voter": 592,
+      "n_wrong": 114,
+      "conditional_accuracy_pct": 73.24,
+      "unconditional_accuracy_pct": 30.65,
+      "coverage_pct": 41.85
+    },
+    {
+      "tau": 0.3,
+      "n_queries": 1018,
+      "n_correct": 336,
+      "n_no_voter": 561,
+      "n_wrong": 121,
+      "conditional_accuracy_pct": 73.52,
+      "unconditional_accuracy_pct": 33.01,
+      "coverage_pct": 44.89
+    },
+    {
+      "tau": 0.35,
+      "n_queries": 1018,
+      "n_correct": 348,
+      "n_no_voter": 526,
+      "n_wrong": 144,
+      "conditional_accuracy_pct": 70.73,
+      "unconditional_accuracy_pct": 34.18,
+      "coverage_pct": 48.33
+    },
+    {
+      "tau": 0.4,
+      "n_queries": 1018,
+      "n_correct": 365,
+      "n_no_voter": 495,
+      "n_wrong": 158,
+      "conditional_accuracy_pct": 69.79,
+      "unconditional_accuracy_pct": 35.85,
+      "coverage_pct": 51.38
+    },
+    {
+      "tau": 0.45,
+      "n_queries": 1018,
+      "n_correct": 385,
+      "n_no_voter": 464,
+      "n_wrong": 169,
+      "conditional_accuracy_pct": 69.49,
+      "unconditional_accuracy_pct": 37.82,
+      "coverage_pct": 54.42
+    },
+    {
+      "tau": 0.5,
+      "n_queries": 1018,
+      "n_correct": 419,
+      "n_no_voter": 390,
+      "n_wrong": 209,
+      "conditional_accuracy_pct": 66.72,
+      "unconditional_accuracy_pct": 41.16,
+      "coverage_pct": 61.69
+    },
+    {
+      "tau": 0.55,
+      "n_queries": 1018,
+      "n_correct": 435,
+      "n_no_voter": 346,
+      "n_wrong": 237,
+      "conditional_accuracy_pct": 64.73,
+      "unconditional_accuracy_pct": 42.73,
+      "coverage_pct": 66.01
+    },
+    {
+      "tau": 0.6,
+      "n_queries": 1018,
+      "n_correct": 457,
+      "n_no_voter": 290,
+      "n_wrong": 271,
+      "conditional_accuracy_pct": 62.77,
+      "unconditional_accuracy_pct": 44.89,
+      "coverage_pct": 71.51
+    },
+    {
+      "tau": 0.65,
+      "n_queries": 1018,
+      "n_correct": 493,
+      "n_no_voter": 218,
+      "n_wrong": 307,
+      "conditional_accuracy_pct": 61.62,
+      "unconditional_accuracy_pct": 48.43,
+      "coverage_pct": 78.59
+    },
+    {
+      "tau": 0.7,
+      "n_queries": 1018,
+      "n_correct": 506,
+      "n_no_voter": 156,
+      "n_wrong": 356,
+      "conditional_accuracy_pct": 58.7,
+      "unconditional_accuracy_pct": 49.71,
+      "coverage_pct": 84.68
+    },
+    {
+      "tau": 0.75,
+      "n_queries": 1018,
+      "n_correct": 521,
+      "n_no_voter": 103,
+      "n_wrong": 394,
+      "conditional_accuracy_pct": 56.94,
+      "unconditional_accuracy_pct": 51.18,
+      "coverage_pct": 89.88
+    },
+    {
+      "tau": 0.8,
+      "n_queries": 1018,
+      "n_correct": 519,
+      "n_no_voter": 67,
+      "n_wrong": 432,
+      "conditional_accuracy_pct": 54.57,
+      "unconditional_accuracy_pct": 50.98,
+      "coverage_pct": 93.42
+    },
+    {
+      "tau": 0.85,
+      "n_queries": 1018,
+      "n_correct": 515,
+      "n_no_voter": 53,
+      "n_wrong": 450,
+      "conditional_accuracy_pct": 53.37,
+      "unconditional_accuracy_pct": 50.59,
+      "coverage_pct": 94.79
+    },
+    {
+      "tau": 0.9,
+      "n_queries": 1018,
+      "n_correct": 508,
+      "n_no_voter": 47,
+      "n_wrong": 463,
+      "conditional_accuracy_pct": 52.32,
+      "unconditional_accuracy_pct": 49.9,
+      "coverage_pct": 95.38
+    }
+  ]
+}

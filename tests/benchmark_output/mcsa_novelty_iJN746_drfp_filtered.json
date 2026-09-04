@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "gem": "iJN746.xml",
+    "fp_type": "drfp",
+    "cofactors_filtered": true,
+    "n_mcsa_total": 1003,
+    "n_overlap": 1,
+    "n_evaluated": 1,
+    "n_valid": 1,
+    "n_found": 1,
+    "mrr": 1.0,
+    "top1_accuracy": 100.0,
+    "top5_accuracy": 100.0,
+    "top10_accuracy": 100.0,
+    "ec_l1_accuracy": 100.0,
+    "ec_l2_accuracy": 100.0,
+    "ec_l3_accuracy": 100.0,
+    "mean_hit_distance": 0.0,
+    "median_hit_distance": 0.0,
+    "elapsed_s": 24.4
+  },
+  "details": [
+    {
+      "mcsa_id": 717,
+      "target_uniprot": "Q88H32",
+      "target_ec": "4.3.1.12",
+      "enzyme_name": "ornithine cyclodeaminase",
+      "status": "success",
+      "found": true,
+      "rank": 1,
+      "reciprocal_rank": 1.0,
+      "hit_rxn_id": "ORNCD",
+      "hit_distance": 0.0,
+      "hit_ec": "4.3.1.12",
+      "top_hit_ec": "4.3.1.12",
+      "top_hit_distance": 0.0,
+      "ec_match_l1": true,
+      "ec_match_l2": true,
+      "ec_match_l3": true
+    }
+  ]
+}
